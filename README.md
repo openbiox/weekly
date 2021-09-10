@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ShixiangWang/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/1913)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
 ## 如何搜索
 
@@ -32,7 +32,7 @@ $ grep -nri bash issues | cat --number
 
 ## 许可协议
 
-本周刊开源，以**署名（BY）-相同方式共享（SA）**协议发行。
+本周刊开源，以「署名（BY）-相同方式共享（SA）」协议发行。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/100px-CC-BY-SA_icon.svg.png)
 
@@ -42,4 +42,6 @@ $ grep -nri bash issues | cat --number
 
 ## 赞赏
 
+![](image/donation1.jpg)
 
+![](image/donation2.jpg)

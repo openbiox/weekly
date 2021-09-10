@@ -46,7 +46,7 @@
 
 1、[国际组学数据质量控制联盟第四期研究成果](https://www.nature.com/articles/s41587-021-00993-6)
 
-![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101443669.png)
+![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101453017.png)
 
 该项目由美国食品药品监督管理局（FDA）牵头，历时5年多，聚集了来自全球100多个单位的300多位科学家参与。通过建立和使用一系列基因组参考物质，国际组学数据质量控制联盟对众多新一代测序平台和生物信息学方法在体细胞和胚系突变、拷贝数变异、肿瘤靶向测序和液态活检、单细胞测序等多个应用场景的性能进行了系统研究。
 

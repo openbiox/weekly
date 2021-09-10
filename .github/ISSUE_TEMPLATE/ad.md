@@ -1,6 +1,6 @@
 ---
-name: ad
-about: 广告
+name: ads-post
+about: 发布广告
 title: "【广告】xxx"
 labels: 广告
 ---

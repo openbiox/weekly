@@ -76,6 +76,6 @@ assignees: ShixiangWang
 
 微信搜索“优雅R”或者扫描二维码，即可订阅。
 
-![](https://shixiangwang.github.io/home/logo/qrcode.jpg)
+![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101438292.jpg)
 
 （完）

@@ -28,7 +28,7 @@ $ grep -nri bash issues | cat --number
 
 ### 九月
 
-- 第 1 期：[知识广度 vs 知识深度](issues/issue-1.md)
+- 第 1 期：[生信是什么](issues/issue-1.md)
 
 ## 许可协议
 

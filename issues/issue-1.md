@@ -46,7 +46,7 @@
 
 1、[国际组学数据质量控制联盟第四期研究成果](https://www.nature.com/articles/s41587-021-00993-6)
 
-![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101436927.png)
+![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101443669.png)
 
 该项目由美国食品药品监督管理局（FDA）牵头，历时5年多，聚集了来自全球100多个单位的300多位科学家参与。通过建立和使用一系列基因组参考物质，国际组学数据质量控制联盟对众多新一代测序平台和生物信息学方法在体细胞和胚系突变、拷贝数变异、肿瘤靶向测序和液态活检、单细胞测序等多个应用场景的性能进行了系统研究。
 
@@ -101,7 +101,7 @@
 
 3、[RStudio](https://www.rstudio.com/)：当前最流行的R语言编辑器。
 
-![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101437844.png)
+![202109101445595](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101448492.png)
 
 4、[VS Code](https://code.visualstudio.com/)：当前最流行的通用集成开发环境IDE。
 
@@ -118,7 +118,9 @@
 
 1、[The Unix Workbench](https://seankross.com/the-unix-workbench/)（英文）
 
-![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101437479.png)
+![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101449838.png)
+
+
 
 > 这本书是为那些刚接触编程和刚接触类似unix的操作系统（如macOS）和Linux发行版（如Ubuntu）的人准备的。本书中讨论的大多数技术都可以通过命令行接口访问。命令行界面一开始看起来很陌生，所以这本书试图在使用命令行和你通常使用鼠标和键盘时采取的动作之间画出相似之处。你还将学习如何用一种名为Bash的编程语言编写小块软件，它允许你将我们将要讨论的工具连接在一起。我希望在本书结束时，你能够像使用连接乐高积木一样使用不同的Unix工具。
 

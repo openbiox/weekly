@@ -13,7 +13,7 @@ assignees: ShixiangWang
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/1913)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
 ## 封面图
 
@@ -25,7 +25,6 @@ assignees: ShixiangWang
 
 ## 广告/招聘/招生
 
-
 ## 生信科技动态
 
 3、[新陈代谢速率](https://cn.nytimes.com/health/20210813/metabolism-weight-aging/)
@@ -34,16 +33,6 @@ assignees: ShixiangWang
 
 《科学》杂志报道，科学家发现人体新陈代谢的速率，与以前认为的不一样。
 
- - 1岁时，新陈代谢达到最高点。
- - 1岁到20岁，新陈代谢每年放缓约3%。
- - 20岁到60岁，新陈代谢保持稳定。
- - 60岁以后，每年下降约0.7%。
-
-这意味着，青年和中年时期，人体的能量消耗速度并没有下降。
-
-所以，20岁到60岁之间，节食可以减肥，因为新陈代谢并没有放缓，只要吃得少，体重就会下降。进入60岁以后，就很难通过节食减肥，因为新陈代谢每年都在下降，节食效果越来越小。
-
-
 ## 文章
 
 1、[青海冷湖：东半球唯一一个世界级天文台址诞生记](https://finance.sina.com.cn/tech/2021-08-19/doc-ikqciyzm2290832.shtml)（中文）
@@ -51,8 +40,6 @@ assignees: ShixiangWang
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081905.jpg)
 
 中国国家天文台经过3年连续监测认定，青海冷湖的光学观测条件比肩国际一流大型天文台。
-
-这一发现为中国光学天文发展创造了重大机遇，也为国际光学天文发展提供了宝贵的战略资源。8月18日的《自然》杂志公布了这项重大科学进展。
 
 
 ## 工具
@@ -77,7 +64,11 @@ assignees: ShixiangWang
 
 2018年（第 21 期）：[人生的水平运动和垂直运动](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)
 
-## 近期赞赏
+## 赞赏
+
+如果你想要支持本周刊，可以对推文进行赞赏或者 GitHub 仓库主页提供的支付宝/微信二维码打赏。
+
+感谢以下朋友近期的赞赏支持：
 
 ## 订阅
 

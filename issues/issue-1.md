@@ -2,9 +2,9 @@
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [BioSisyphus/weekly](https://github.com/BioSisyphus/weekly)），欢迎提交 issue，投稿或推荐科技内容。
+本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐科技内容。
 
-周刊讨论区的帖子[《谁在招人？》](https://github.com/BioSisyphus/weekly/issues/1913)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+周刊讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/1913)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 封面图
 

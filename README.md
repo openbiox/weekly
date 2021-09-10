@@ -2,13 +2,13 @@
 
 记录每周值得分享的生信相关内容，周日发布。
 
-欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/BioSisyphus/weekly/issues) 。
+欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ShixiangWang/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/BioSisyphus/weekly/issues/1913)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/1913)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
 ## 如何搜索
 
-1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/BioSisyphus/weekly) 进行搜索。（推荐方法）
+1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ShixiangWang/weekly) 进行搜索。（推荐方法）
 
 2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
 

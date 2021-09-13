@@ -15,6 +15,8 @@ assignees: ShixiangWang
 
 讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
+[「本期专用讨论区」](https://github.com/ShixiangWang/weekly/issues/4)
+
 ## 封面图
 
 ![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090809.jpg)

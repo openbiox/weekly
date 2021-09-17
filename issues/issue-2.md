@@ -124,7 +124,7 @@
 
 4、[构建基本shell脚本](https://shixiangwang.github.io/home/cn/post/2017-08-11-basic-shell/)
 
-本文介绍如何构建几本的Shell脚本，掌握Linux终端编程。
+本文介绍如何构建基本的Shell脚本，掌握Linux终端编程。
 
 内容：
 

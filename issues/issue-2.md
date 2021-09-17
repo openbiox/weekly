@@ -10,7 +10,7 @@
 
 ## 封面图
 
-![image](https://user-images.githubusercontent.com/25057508/133086362-0ee9a150-a973-4290-b8b9-b7e17f17594c.png)
+![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171837480.png)
 
 如果先做一个菜鸟。（[via](https://www.alifeoverseas.com/what-in-the-world-to-do-with-newbies/)）
 

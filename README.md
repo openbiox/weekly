@@ -33,6 +33,9 @@ $ grep -nri bash issues | cat --number
 ### 九月
 
 - 第 1 期：[生信是什么](issues/issue-1.md)
+- 第 1 期：[生信的境界与道路](issues/issue-2.md)
+
+
 
 ## 许可协议
 
@@ -46,6 +49,8 @@ $ grep -nri bash issues | cat --number
 
 ## 赞赏
 
-![](image/donation1.jpg)
+| ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440597.jpg) | ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440452.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-![](image/donation2.jpg)
+
+

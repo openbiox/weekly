@@ -68,9 +68,10 @@ assignees: ShixiangWang
 
 ## 赞赏
 
-如果你想要支持本周刊，可以对推文进行赞赏或者 GitHub 仓库主页提供的支付宝/微信二维码打赏。
+如果你想要支持本周刊，可以对推文进行赞赏或者提供的支付宝/微信二维码打赏。
 
-感谢以下朋友近期的赞赏支持：
+| ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440597.jpg) | ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440452.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 订阅
 

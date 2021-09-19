@@ -104,7 +104,7 @@
 
 ## 文章
 
-1、[在ggplot2散点图中自动添加回归系数或回归方程、R2、P值等](https://mp.weixin.qq.com/s/cG1IKgHe3l15Yc9QorLjxQ)
+1、[在ggplot2散点图中自动添加回归系数或回归方程、R2、P值等](https://mp.weixin.qq.com/s/1gTxGLQH7qzS14LvPlmxeQ)
 
 ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171402192.png)
 

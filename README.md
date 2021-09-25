@@ -36,6 +36,7 @@ $ grep -nri bash issues | cat --number
 
 - 第 1 期：[生信是什么](issues/issue-1.md)
 - 第 2 期：[生信的境界与道路](issues/issue-2.md)
+- 第 3 期：[百年杨振宁](issues/issue-3.md)
 
 
 

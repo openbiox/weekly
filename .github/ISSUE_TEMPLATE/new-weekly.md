@@ -68,6 +68,8 @@ GitHub 粉们可以通过 Watch 仓库的 Release（提前）关注发布内容�
 
 2018年（第 21 期）：[人生的水平运动和垂直运动](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)
 
+## 贡献者
+
 ## 赞赏
 
 如果你想要支持本周刊，可以对推文进行赞赏或者提供的支付宝/微信二维码打赏。

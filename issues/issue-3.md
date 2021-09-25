@@ -150,7 +150,7 @@ https://github.com/ShixiangWang/weekly/issues/40
 
 2、[Lessons learned in writing my first book](https://shinglyu.com/web/2020/04/05/lessons-learned-in-writing-my-first-book.html)
 
-作者介绍了自己写第一本的的经历感悟以及一些技巧分享。
+作者介绍了自己写第一本书的的经历感悟以及一些技巧分享。
 
 3、[Visualize the 'real' circular genome](https://jokergoo.github.io/2021/09/18/visualize-the-real-circular-genome/)
 

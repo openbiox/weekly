@@ -32,6 +32,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2021
 
+
+### 十月
+
+- 第 4 期：[生信有一天可以得诺贝尔奖吗](issues/issue-4.md)
 ### 九月
 
 - 第 1 期：[生信是什么](issues/issue-1.md)

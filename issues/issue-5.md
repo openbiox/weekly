@@ -99,9 +99,9 @@ g2 <- set_font(p,
 
 ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/2021-10-16/1634372748527-image.png)
 
-2、[Python 3.10发布：优化错误调试，新增match语句等](https://mp.weixin.qq.com/s/5UJqgdWrDBVIWGMQcBLXNQ)
-
 （来源：公众号「YuLabSMU」）
+
+2、[Python 3.10发布：优化错误调试，新增match语句等](https://mp.weixin.qq.com/s/5UJqgdWrDBVIWGMQcBLXNQ)
 
 **更好的错误跟踪**
 

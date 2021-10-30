@@ -35,6 +35,7 @@ $ grep -nri bash issues | cat --number
 
 ### 十月
 
+- 第 7 期：[为何年轻便科研至死](issues/issue-7.md)
 - 第 6 期：[你会买“炸场”Macbook Pro搞生信吗？](issues/issue-6.md)
 - 第 5 期：[相关非因果](issues/issue-5.md)
 - 第 4 期：[生信有一天可以得诺贝尔奖吗](issues/issue-4.md)

@@ -32,6 +32,9 @@ $ grep -nri bash issues | cat --number
 
 ## 2021
 
+### 十一月
+
+- 第 8 期：[《沙丘》编剧、《权游》作者使用MS-DOS创作](issues/issue-8.md)
 
 ### 十月
 

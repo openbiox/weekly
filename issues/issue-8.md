@@ -93,7 +93,7 @@ GitHub 粉们可以通过 Watch 仓库的 Release（提前）关注发布内容�
 
 ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/2021-11-7/1636271480235-image.png)
 
-2、[pkgdown：R包文档制作工具]
+2、[pkgdown：R包文档制作工具](https://github.com/r-lib/pkgdown/)
 
 近期该包发布2.0版本，将支持boostrap5文档模板。
 

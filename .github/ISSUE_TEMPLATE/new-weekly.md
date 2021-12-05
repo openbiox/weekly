@@ -38,6 +38,11 @@ GitHub 粉们可以通过 Watch 仓库的 Release（提前）关注发布内容�
 
 ## 赞赏
 
+如果你想要支持本周刊，可以对推文进行赞赏或者提供的支付宝/微信二维码打赏。
+
+| ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440597.jpg) | ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440452.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 ## 订阅
 
 这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。

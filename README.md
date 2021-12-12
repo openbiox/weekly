@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 十二月
 
+- 第 12 期：[你的饮食模式需要改变吗？](issues/issue-12.md)
 - 第 11 期：[中科院近20年院士增选之数据分析](issues/issue-11.md)
 
 ### 十一月

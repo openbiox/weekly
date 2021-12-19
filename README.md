@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 十二月
 
+- 第 13 期：[他开发了基因界的百科全书，贡献却少有人知](issues/issue-13.md)
 - 第 12 期：[你的饮食模式需要改变吗？](issues/issue-12.md)
 - 第 11 期：[中科院近20年院士增选之数据分析](issues/issue-11.md)
 

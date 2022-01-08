@@ -30,6 +30,12 @@ $ grep -nri [搜索词] issues | cat --number
 $ grep -nri bash issues | cat --number
 ```
 
+## 2022
+
+### 一月
+
+- 第 15 期：[科学家的层次](issues/issue-15.md)
+
 ## 2021
 
 ### 十二月

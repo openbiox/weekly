@@ -1,7 +1,7 @@
 ---
 name: Recommand
 about: 封面/话题/生信动态/文章/工具/资源推荐
-title: "【推荐】xxx"
+title: "【推荐】封面/话题/生信动态/文章/工具/资源推荐 | xxx"
 labels: 推荐
 ---
 

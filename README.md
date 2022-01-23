@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 一月
 
+- 第 17 期：[Cox比例风险模型著作者离世](issues/issue-17.md)
 - 第 16 期：[癌症新特征](issues/issue-16.md)
 - 第 15 期：[科学家的层次](issues/issue-15.md)
 

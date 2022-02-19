@@ -32,6 +32,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2022
 
+### 二月
+
+- 第 18 期：[过去50年最重要的统计学思想是什么？](issues/issue-18.md)
+
 ### 一月
 
 - 第 17 期：[Cox比例风险模型著作者离世](issues/issue-17.md)

@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 二月
 
+- 第 19 期：[2022年值得关注的7大前沿技术](issues/issue-19.md)
 - 第 18 期：[过去50年最重要的统计学思想是什么？](issues/issue-18.md)
 
 ### 一月

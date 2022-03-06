@@ -32,6 +32,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2022
 
+### 三月
+
+- 第 20 期：[科研苦行](issues/issue-20.md)
+
 ### 二月
 
 - 第 19 期：[2022年值得关注的7大前沿技术](issues/issue-19.md)

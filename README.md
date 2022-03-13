@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 三月
 
+- 第 21 期：[科研与爱好](issues/issue-21.md)
 - 第 20 期：[科研苦行](issues/issue-20.md)
 
 ### 二月

@@ -17,7 +17,7 @@ GitHub 粉们可以通过 Watch 仓库的 Release（提前）关注发布内容�
 
 讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
-[「本期专用讨论区」](https://github.com/ShixiangWang/weekly/issues/306)
+[「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo)
 
 ## 封面图
 

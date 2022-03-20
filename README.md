@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 三月
 
+- 第 22 期：[为什么生产率在提高而我们却越来越忙](issues/issue-22.md)
 - 第 21 期：[科研与爱好](issues/issue-21.md)
 - 第 20 期：[科研苦行](issues/issue-20.md)
 

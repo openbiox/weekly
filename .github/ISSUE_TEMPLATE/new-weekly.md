@@ -13,12 +13,9 @@ assignees: ShixiangWang
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
-
 [「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo)
 
 ## 封面图
-
 
 ## 本周话题：
 
@@ -38,8 +35,7 @@ assignees: ShixiangWang
 
 如果你想要支持本周刊，可以对推文进行赞赏或者提供的支付宝/微信二维码打赏。
 
-| ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440597.jpg) | ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440452.jpg) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png)
 
 ## 订阅
 

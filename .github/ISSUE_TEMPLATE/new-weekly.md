@@ -43,7 +43,7 @@ assignees: ShixiangWang
 
 微信搜索“优雅R”或者扫描二维码，即可订阅。
 
-![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101438292.jpg)
+![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648306398708-897e7ad4-6008-40f8-9200-ddee834b09a7.png)
 
 （完）
 

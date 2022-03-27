@@ -91,8 +91,5 @@ $ grep -nri bash issues | cat --number
 
 ## 赞赏
 
-| ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440597.jpg) | ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109171440452.jpg) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
+![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png?x-oss-process=image%2Fresize%2Cw_1290%2Climit_0)
 

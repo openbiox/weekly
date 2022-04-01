@@ -93,3 +93,7 @@ $ grep -nri bash issues | cat --number
 
 ![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png?x-oss-process=image%2Fresize%2Cw_1290%2Climit_0)
 
+感谢以下个人/组织的大额赞赏：
+
+- [Openbiox](https://github.com/openbiox)
+- [曾健明](https://github.com/jmzeng1314)

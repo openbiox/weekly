@@ -32,6 +32,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2022
 
+### 四月
+
+- 第 24 期：[从有隙到无间，首个人类完整基因组发布](issues/issue-24.md)
+
 ### 三月
 
 - 第 23 期：[从美国博德研究所成功之道看生命科学前沿创新](issues/issue-23.md)

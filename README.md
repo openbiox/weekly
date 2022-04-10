@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 四月
 
+- 第 25 期：[从事生信工作，究竟是远见者，还是工具人？](issues/issue-25.md)
 - 第 24 期：[从有隙到无间，首个人类完整基因组发布](issues/issue-24.md)
 
 ### 三月

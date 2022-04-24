@@ -34,6 +34,7 @@ $ grep -nri bash issues | cat --number
 
 ### 四月
 
+- 第 27 期：[真与假的界限在哪里](issues/issue-27.md)
 - 第 26 期：[CRISPR的专利权](issues/issue-26.md)
 - 第 25 期：[从事生信工作，究竟是远见者，还是工具人？](issues/issue-25.md)
 - 第 24 期：[从有隙到无间，首个人类完整基因组发布](issues/issue-24.md)

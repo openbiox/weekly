@@ -32,6 +32,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2022
 
+### 五月
+
+- 第 28 期：[华大Stereo-seq系列成果揭秘超高分辨率生命全景时空图谱](issues/issue-28.md)
+
 ### 四月
 
 - 第 27 期：[真与假的界限在哪里](issues/issue-27.md)

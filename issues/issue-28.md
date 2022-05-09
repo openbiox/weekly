@@ -131,7 +131,7 @@ tbl_ae <-
 
 ![](https://files.mdnice.com/user/4331/2a68ddc2-f827-4852-b7b9-8b007c662c82.png)
 
-5、[parsermd - R Markdown 提取器]()
+5、[parsermd - R Markdown 提取器](https://github.com/rundel/parsermd)
 
 方便对R Markdown文件进行编程控制。
 
@@ -196,14 +196,14 @@ rmd_select(rmd, 1:3)
 #>     └── Chunk [r, 1 opt, 1 lines] - setup
 ```
 
-5、[ggdistribute - A ggplot2 Extension for Plotting Unimodal Distributions](https://github.com/iamamutt/ggdistribute)
+6、[ggdistribute - A ggplot2 Extension for Plotting Unimodal Distributions](https://github.com/iamamutt/ggdistribute)
 
 ggdistribute包是绘制后向或其他类型的单峰分布的扩展，这些单峰分布需要覆盖关于分布间隔的信息。它利用ggproto系统扩展ggplot2，提供额外的“geoms”、“stats”和“position”。扩展与现有的ggplot2层元素集成。
 
 
 ![](https://files.mdnice.com/user/4331/aa2edffd-8e0c-48b4-b0dc-33d549ab539f.png)
 
-6、[cannonball - 定量方法论和统计学相关函数工具](https://github.com/janhove/cannonball)
+7、[cannonball - 定量方法论和统计学相关函数工具](https://github.com/janhove/cannonball)
 
 `plot_r(): Draw different scatterplots with the same correlation coefficient`
 

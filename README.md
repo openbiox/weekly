@@ -35,6 +35,7 @@ $ grep -nri bash issues | cat --number
 
 ### 五月
 
+- 第 29 期：[Hiplot开发库开源](issues/issue-29.md)
 - 第 28 期：[华大Stereo-seq系列成果揭秘超高分辨率生命全景时空图谱](issues/issue-28.md)
 
 ### 四月

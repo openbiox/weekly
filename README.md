@@ -35,6 +35,7 @@ $ grep -nri bash issues | cat --number
 
 ### 五月
 
+- 第 30 期：[生信的核心修炼道路在哪里？](issues/issue-30.md)
 - 第 29 期：[Hiplot开发库开源](issues/issue-29.md)
 - 第 28 期：[华大Stereo-seq系列成果揭秘超高分辨率生命全景时空图谱](issues/issue-28.md)
 

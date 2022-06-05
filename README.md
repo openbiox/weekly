@@ -33,6 +33,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2022
 
+### 六月
+
+- 第 31 期：[Openbiox 生物信息学社区 2022 拟开展项目，正式招募 ！](issues/issue-31.md)
+
 ### 五月
 
 - 第 30 期：[生信的核心修炼道路在哪里？](issues/issue-30.md)

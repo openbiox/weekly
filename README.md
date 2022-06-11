@@ -35,6 +35,7 @@ $ grep -nri bash issues | cat --number
 
 ### 六月
 
+- 第 32 期：[有害的同义突变](issues/issue-32.md)
 - 第 31 期：[Openbiox 生物信息学社区 2022 拟开展项目，正式招募 ！](issues/issue-31.md)
 
 ### 五月

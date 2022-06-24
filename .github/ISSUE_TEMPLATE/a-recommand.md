@@ -1,5 +1,5 @@
 ---
-name: Recommand
+name: 内容推荐
 about: 封面/话题/生信研究/博文资讯/工具/资源推荐
 title: "【推荐】封面/话题/生信研究/博文资讯/工具/资源推荐 | xxx"
 labels: 推荐

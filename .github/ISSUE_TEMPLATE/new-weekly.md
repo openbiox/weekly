@@ -29,7 +29,17 @@ assignees: ShixiangWang
 
 ## 历史上的本周
 
-## 贡献者
+## 贡献者（GitHub ID）
+
+生信周刊运维小队：
+
+- `@ShixiangWang`
+- `@kkjtmac`
+- `@NiEntropy`
+- `@He-Kai-fly`
+- `@JnanZhang`
+- `@Tomcxf`
+- `@wangdepin`
 
 ## 赞赏
 

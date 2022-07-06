@@ -41,12 +41,6 @@ assignees: ShixiangWang
 - `@Tomcxf`
 - `@wangdepin`
 
-## 赞赏
-
-如果你想要支持本周刊，可以对推文进行赞赏或者提供的支付宝/微信二维码打赏。
-
-![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png)
-
 ## 订阅
 
 这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。

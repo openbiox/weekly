@@ -31,7 +31,7 @@ assignees: ShixiangWang
 
 ## 贡献者（GitHub ID）
 
-生信周刊运维小队：
+「Openbiox 生信周刊」运维小队：
 
 - `@ShixiangWang`
 - `@kkjtmac`

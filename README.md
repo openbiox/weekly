@@ -33,6 +33,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2022
 
+### 七月
+
+- 第 35 期：[生物信息行业的经济生态](issues/issue-35.md)
+
 ### 六月
 
 - 第 34 期：[中国百万人群大队列，何去何从？](issues/issue-34.md)

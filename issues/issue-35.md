@@ -12,6 +12,11 @@
 
 ## 封面图
 
+
+![](https://files.mdnice.com/user/4331/dc7221ad-7371-4067-9fc6-bfe9a1061202.png)
+
+神经元（[via](https://www.economist.com/science-and-technology/2022/06/29/how-neurons-really-work-is-being-elucidated "via")）
+
 ## 本周话题：生物信息行业的经济生态
 
 本周话题来自`@qins`：

@@ -35,6 +35,8 @@ $ grep -nri bash issues | cat --number
 
 ### 七月
 
+
+- 第 36 期：[“费钱、费力、不费脑”是中国该提倡的科研吗？](issues/issue-36.md)
 - 第 35 期：[生物信息行业的经济生态](issues/issue-35.md)
 
 ### 六月

@@ -11,13 +11,13 @@
 
 成员：
 
-- `@ShixiangWang`
-- `@kkjtmac`
-- `@NiEntropy`
-- `@He-Kai-fly`
-- `@JnanZhang`
-- `@Tomcxf`
-- `@wangdepin`
+- [`@ShixiangWang`](https://github.com/ShixiangWang)
+- [`@kkjtmac`](https://github.com/kkjtmac)
+- [`@NiEntropy`](https://github.com/NiEntropy)
+- [`@He-Kai-fly`](https://github.com/He-Kai-fly)
+- [`@JnanZhang`](https://github.com/JnanZhang)
+- [`@Tomcxf`](https://github.com/Tomcxf)
+- [`@wangdepin`](https://github.com/wangdepin)
 
 --------------
 
@@ -132,15 +132,14 @@ $ grep -nri bash issues | cat --number
 
 本周刊受阮一峰[《科技爱好者周刊》](https://github.com/ruanyf/weekly)启发创办，仓库初始化也采用其作为模板。特此致谢。
 
-## 赞赏
-
-![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png?x-oss-process=image%2Fresize%2Cw_1290%2Climit_0)
-
-## 致谢
-
 感谢以下个人/组织的长期/大额赞赏：
 
 - [Openbiox](https://github.com/openbiox)
 - [曾健明](https://github.com/jmzeng1314)
 - iCanHelp
 - 李浩
+
+## 赞赏
+
+![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png?x-oss-process=image%2Fresize%2Cw_1290%2Climit_0)
+

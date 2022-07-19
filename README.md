@@ -1,9 +1,25 @@
-# 生信爱好者周刊
+# 生信爱好者周刊 <img src="https://raw.githubusercontent.com/openbiox/wiki/master/static/img/logo-long.png" align="right" width="200"/>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ShixiangWang/weekly/graphs/commit-activity)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShixiangWang%2Fweekly&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gitter](https://badges.gitter.im/ShixiangWang/community.svg)](https://gitter.im/ShixiangWang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+--------------
+
+本项目由「Openbiox 生信周刊」运维小队维护。
+
+成员：
+
+- `@ShixiangWang`
+- `@kkjtmac`
+- `@NiEntropy`
+- `@He-Kai-fly`
+- `@JnanZhang`
+- `@Tomcxf`
+- `@wangdepin`
+
+--------------
 
 记录每周值得分享的生信相关内容，周日发布。
 
@@ -119,6 +135,8 @@ $ grep -nri bash issues | cat --number
 ## 赞赏
 
 ![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png?x-oss-process=image%2Fresize%2Cw_1290%2Climit_0)
+
+## 致谢
 
 感谢以下个人/组织的长期/大额赞赏：
 

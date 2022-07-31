@@ -50,6 +50,7 @@ $ grep -nri bash issues | cat --number
 ### 七月
 
 
+- 第 38 期：[选人不选项目的「基石项目」能否走向成功？](issues/issue-38.md)
 - 第 37 期：[抛弃“影响”因子，计算颠覆因子！](issues/issue-37.md)
 - 第 36 期：[“费钱、费力、不费脑”是中国该提倡的科研吗？](issues/issue-36.md)
 - 第 35 期：[生物信息行业的经济生态](issues/issue-35.md)

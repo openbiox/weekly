@@ -48,7 +48,7 @@ $ grep -nri bash issues | cat --number
 ## 2022
 
 ### 八月
-
+- 第 42 期：[极简主义的胜利](issues/issue-42.md)
 - 第 41 期：[人体是一个共生生态系统](issues/issue-41.md)
 - 第 40 期：[bTMB指导肿瘤免疫治疗临床研究](issues/issue-40.md)
 - 第 39 期：[人生不短](issues/issue-39.md)

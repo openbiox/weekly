@@ -9,6 +9,7 @@
 ## 封面图
 
 ![](https://files.mdnice.com/user/33257/f9aa55ef-de44-4a8c-858b-b0aee319b92c.png)
+
 图源：2020 年黑白极简主义摄影奖-二等奖《坐下来，自由思考》，皮埃尔·佩莱格里尼
 
 ## 本周话题：[极简主义的胜利](https://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)

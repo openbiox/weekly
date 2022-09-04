@@ -47,7 +47,12 @@ $ grep -nri bash issues | cat --number
 
 ## 2022
 
+### 九月
+
+- 第 43 期：[RNA-seq差异分析究竟应该用什么？](issues/issue-43.md)
+
 ### 八月
+
 - 第 42 期：[极简主义的胜利](issues/issue-42.md)
 - 第 41 期：[人体是一个共生生态系统](issues/issue-41.md)
 - 第 40 期：[bTMB指导肿瘤免疫治疗临床研究](issues/issue-40.md)

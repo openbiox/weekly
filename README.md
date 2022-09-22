@@ -17,13 +17,8 @@
 - [`@Tomcxf`](https://github.com/Tomcxf)
 - [`@wangdepin`](https://github.com/wangdepin)
 
-<details>
- 
-<summary>轮值负责排班表</summary>
+轮值负责排班表见 https://github.com/ShixiangWang/weekly/discussions/1020
 
-
-
-</details>
 
 --------------
 

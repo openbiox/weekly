@@ -17,6 +17,14 @@
 - [`@Tomcxf`](https://github.com/Tomcxf)
 - [`@wangdepin`](https://github.com/wangdepin)
 
+<details>
+ 
+<summary>轮值负责排班表</summary>
+
+
+
+</details>
+
 --------------
 
 记录每周值得分享的生信相关内容，周日发布。
@@ -52,6 +60,10 @@ $ grep -nri bash issues | cat --number
 - 第 45 期：[读博还是择业？](issues/issue-45.md)
 - 第 44 期：[为何动物的寿命差异那么大？](issues/issue-44.md)
 - 第 43 期：[RNA-seq差异分析究竟应该用什么？](issues/issue-43.md)
+
+<details>
+ 
+<summary>2022 往期列表</summary>
 
 ### 八月
 
@@ -105,7 +117,13 @@ $ grep -nri bash issues | cat --number
 - 第 16 期：[癌症新特征](issues/issue-16.md)
 - 第 15 期：[科学家的层次](issues/issue-15.md)
 
+</details>
+
 ## 2021
+
+<details>
+ 
+<summary>2021 列表</summary>
 
 ### 十二月
 
@@ -132,6 +150,9 @@ $ grep -nri bash issues | cat --number
 - 第 3 期：[百年杨振宁](issues/issue-3.md)
 - 第 2 期：[生信的境界与道路](issues/issue-2.md)
 - 第 1 期：[生信是什么](issues/issue-1.md)
+
+</details>
+ 
 
 
 ## 许可协议

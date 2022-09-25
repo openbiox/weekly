@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://files.mdnice.com/user/33257/bb79a6bd-4527-4c97-a5b8-b81c35ea5e6b.png)
+![](https://files.mdnice.com/user/33257/e40d1c30-7c19-4882-877e-0ccd6f59027d.png)
 
 ## 本周话题：[你的苹果M系列芯片电脑跑生信顺利么?](https://github.com/ShixiangWang/weekly/issues/1013 "你的苹果M系列芯片电脑跑生信顺利么?")
 

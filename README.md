@@ -51,7 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2022
 
 ### 九月
-
+- 第 46 期：[你的苹果M系列芯片电脑跑生信顺利么？](issues/issue-46.md)
 - 第 45 期：[读博还是择业？](issues/issue-45.md)
 - 第 44 期：[为何动物的寿命差异那么大？](issues/issue-44.md)
 - 第 43 期：[RNA-seq差异分析究竟应该用什么？](issues/issue-43.md)

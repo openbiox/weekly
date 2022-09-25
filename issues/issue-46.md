@@ -22,9 +22,9 @@
 
 ![](https://files.mdnice.com/user/33257/046f3584-11f2-4c1d-aa70-80a1fe0e2bb1.png)
 
-2022年8月17日，樊荣教授团队和瑞典卡罗林斯卡学院Gonçalo Castelo-Branco教授团队合作利用微流控技术将组织进行空间二维编码，并与ATAC-seq技术进行结合，实现了全基因组尺度的染色质可及性测序分析，优化以后的Spatial-ATAC-seq测序结果与scATAC-seq的数据比较，质量达到相同水平，是空间表观遗传分析技术的有一个新的突破。
+作者开发了一种特征选择方法ActiveSVM，通过带有支持向量机分类器的主动学习策略来处理顺序特征选择。从大型单细胞 mRNA-seq 数据集中提取高信息量的基因，构建用于细胞分类的最小基因集。该方法可以降低计算和测序成本，为主动采样策略提供依据。
 
-- 论文链接：https://www.nature.com/articles/s41586-022-05094-1
+- 论文链接：https://www.nature.com/articles/s43588-022-00263-8
 - 教程：https://pypi.org/project/activeSVC/
 
 2、[Cancer Cell 专家论坛 | 肿瘤空间转录组学](https://mp.weixin.qq.com/s/uTxeN5-2yxjWUjiSHrqI0A)

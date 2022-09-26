@@ -33,13 +33,13 @@ assignees: ShixiangWang
 
 「Openbiox 生信周刊」运维小队：
 
-- `@ShixiangWang`
-- `@kkjtmac`
-- `@NiEntropy`
-- `@He-Kai-fly`
-- `@JnanZhang`
-- `@Tomcxf`
-- `@wangdepin`
+- `@ShixiangWang`（王诗翔）
+- `@kkjtmac`（阚科佳）
+- `@NiEntropy`（赵启祥）
+- `@He-Kai-fly`（何凯）
+- `@JnanZhang`（张佳楠）
+- `@Tomcxf`（陈啸枫）
+- `@wangdepin`（王德品）
 
 ## 订阅
 

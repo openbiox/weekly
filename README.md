@@ -52,6 +52,7 @@ $ grep -nri bash issues | cat --number
 
 ### 十月
 
+- 第 48 期：[人生不能只有一个支点](issues/issue-48.md)
 - 第 47 期：[RStudio 改名 Posit](issues/issue-47.md)
 
 <details>

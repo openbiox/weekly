@@ -51,7 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2022
 
 ### 十月
-
+- 第 50 期：[顶级1区期刊宣布：明年起将不再拒稿！](issues/issue-50.md)
 - 第 49 期：[面对知识孤岛，你会怎么处理？](issues/issue-49.md)
 - 第 48 期：[人生不能只有一个支点](issues/issue-48.md)
 - 第 47 期：[RStudio 改名 Posit](issues/issue-47.md)

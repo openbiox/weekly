@@ -52,7 +52,7 @@ $ grep -nri bash issues | cat --number
 
 ### 十一月
 
-- 第 51 期：
+- 第 51 期：[职业对性格的改变](issues/issue-51.md)
 
 
 <details>
@@ -61,7 +61,6 @@ $ grep -nri bash issues | cat --number
 
 ### 十月
 
-- 第 51 期：[职业对性格的改变](issues/issue-51.md)
 - 第 50 期：[顶级1区期刊宣布：明年起将不再拒稿！](issues/issue-50.md)
 - 第 49 期：[面对知识孤岛，你会怎么处理？](issues/issue-49.md)
 - 第 48 期：[人生不能只有一个支点](issues/issue-48.md)

@@ -52,7 +52,7 @@ $ grep -nri bash issues | cat --number
 
 ### 十一月
 
-- 第 51 期：
+- 第 51 期：[职业对性格的改变](issues/issue-51.md)
 
 
 <details>

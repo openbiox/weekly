@@ -53,6 +53,9 @@ $ grep -nri bash issues | cat --number
 ### 十一月
 
 - 第 51 期：[职业对性格的改变](issues/issue-51.md)
+- 第 52 期：[真正的“科技与狠活”：全球首个人工“优选基因”的“完美婴儿”马上2岁啦！](issues/issue-52.md)
+- 第 53 期：[为什么现在的中国大学生普遍焦虑内卷？](issues/issue-53.md)
+- 第 54 期：[人类和人生的意义](issues/issue-54.md)
 
 
 <details>

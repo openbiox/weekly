@@ -54,7 +54,7 @@ $ grep -nri bash issues | cat --number
 
 - 第 57 期：
 - 第 56 期：
-- 第 55 期：
+- 第 55 期：[科学创新四十年，我们可能还没搞明白科学和技术的基本概念](issues/issue-55.md)
 
 
 <details>

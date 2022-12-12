@@ -52,6 +52,8 @@ $ grep -nri bash issues | cat --number
 
 ### 十二月
 
+- 第 57 期：
+- 第 56 期：
 - 第 55 期：
 
 

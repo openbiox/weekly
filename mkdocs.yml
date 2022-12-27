@@ -15,7 +15,7 @@ edit_uri: https://github.com/ShixiangWang/weekly/edit/master/
 site_author: Shixiang Wang
 copyright: Copyright © 2020 ShixiangWang and other maintainers
 nav:
-    - 阅读说明: readme.md
+    - 阅读说明: README.md
     - 周刊:
       - issue-1.md
       - issue-2.md

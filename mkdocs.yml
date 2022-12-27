@@ -2,7 +2,7 @@ site_name: 生信爱好者周刊
 docs_dir: "issues"
 site_dir: "site"
 theme:
-  name: material
+  name: mkdocs
   features:
     - navigation.instant
     - navigation.tracking

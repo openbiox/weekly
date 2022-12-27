@@ -1,0 +1,84 @@
+site_name: 生信爱好者周刊
+docs_dir: "issues"
+site_dir: "site"
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+repo_url: https://github.com/ShixiangWang/weekly
+edit_uri: https://github.com/ShixiangWang/weekly/edit/master/
+site_author: Shixiang Wang
+copyright: Copyright © 2020 ShixiangWang and other maintainers
+nav:
+    - 阅读说明: readme.md
+    - 周刊:
+      - issue-1.md
+      - issue-2.md
+      - issue-3.md
+      - issue-4.md
+      - issue-5.md
+      - issue-6.md
+      - issue-7.md
+      - issue-8.md
+      - issue-9.md
+      - issue-10.md
+      - issue-11.md
+      - issue-12.md
+      - issue-13.md
+      - issue-14.md
+      - issue-15.md
+      - issue-16.md
+      - issue-17.md
+      - issue-18.md
+      - issue-19.md
+      - issue-20.md
+      - issue-21.md
+      - issue-22.md
+      - issue-23.md
+      - issue-24.md
+      - issue-25.md
+      - issue-26.md
+      - issue-27.md
+      - issue-28.md
+      - issue-29.md
+      - issue-30.md
+      - issue-31.md
+      - issue-32.md
+      - issue-33.md
+      - issue-34.md
+      - issue-35.md
+      - issue-36.md
+      - issue-37.md
+      - issue-38.md
+      - issue-39.md
+      - issue-40.md
+      - issue-41.md
+      - issue-42.md
+      - issue-43.md
+      - issue-44.md
+      - issue-45.md
+      - issue-46.md
+      - issue-47.md
+      - issue-48.md
+      - issue-49.md
+      - issue-50.md
+      - issue-51.md
+      - issue-52.md
+      - issue-53.md
+      - issue-54.md
+      - issue-55.md
+      - issue-56.md
+      - issue-57.md
+      - issue-58.md
+    - 排班表: https://github.com/ShixiangWang/weekly/discussions/1020
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
+        separator: "-"
+        toc_depth: 3

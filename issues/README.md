@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 生信爱好者周刊 <img src="https://raw.githubusercontent.com/openbiox/wiki/master/static/img/logo-long.png" align="right" width="200"/>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)

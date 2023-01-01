@@ -52,7 +52,7 @@ $ grep -nri bash issues | cat --number
 
 ### 一月
 
-- 第 59 期：[](issues/issue-59.md)
+- 第 59 期：[AlphaCode 编程大赛卷趴一半程序员](issues/issue-59.md)
 
 ## 2022
 

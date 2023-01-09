@@ -28,7 +28,7 @@ comments: true
 ## 生信研究
 
 
-1、[生信研究｜Nat Mach Intell｜基于 AI 算法预测基因组错义变异的功能影响](https://mp.weixin.qq.com/s/F-jDB9tOzCid7j2pjazOgw)
+1、[Nature Machine Intelligence｜基于 AI 算法预测基因组错义变异的功能影响](https://mp.weixin.qq.com/s/F-jDB9tOzCid7j2pjazOgw)
 
 
 
@@ -40,7 +40,7 @@ comments: true
 
 - Paper链接：https://www.nature.com/articles/s42256-022-00561-w
 
-2、[生信研究| 超越 Neural ODE，新机器学习模型显著提升计算速度与性能](https://www.linkresearcher.com/theses/cd942fde-b3b4-496c-805d-603a6386ff0a)
+2、[Nature Machine Intelligence | 超越 Neural ODE，新机器学习模型显著提升计算速度与性能](https://www.linkresearcher.com/theses/cd942fde-b3b4-496c-805d-603a6386ff0a)
 
 
 
@@ -65,7 +65,7 @@ comments: true
 
 ![](https://files.mdnice.com/user/38451/06b43a87-8496-477e-8c93-71ab795f75b4.png)
 
--Paper链接：https://doi.org/10.1158/2159-8290.CD-22-0659
+- Paper链接：https://doi.org/10.1158/2159-8290.CD-22-0659
 
 
 约翰霍普金斯大学研究团队开发出一种基于血液的全基因组cfDNA片段化特征检测方法,对HCC具有高灵敏度和特异性。研究表明片段化概况捕获了基因组和染色质特征，包括已知在HCC中很重要的改变。cfDNA片段化组分析方法“DELFI”是第一个在单独的高风险人群中独立验证的全基因组片段化分析，在检测HCC方面具有稳定和强大的性能，包括非常早期的疾病，且与疾病病因无关。

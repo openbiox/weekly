@@ -51,6 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 一月
+- 第 61 期：[基因对寿命的影响](issues/issue-61.md)
 - 第 60 期：[孟德尔诞辰 200 周年](issues/issue-60.md)
 - 第 59 期：[AlphaCode 编程大赛卷趴一半程序员](issues/issue-59.md)
 

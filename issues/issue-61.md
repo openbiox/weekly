@@ -166,7 +166,8 @@ facets项目包含了两个可视化功能理解和分析机器学习数据集�
 
 ## 历史上的本周
 
-- 2022年3月：[第21期：科研与爱好]([https://mp.weixin.qq.com/s/jSkT1qM0dGK_4AkBVBNfbQ](https://mp.weixin.qq.com/s/jSkT1qM0dGK_4AkBVBNfbQ))
+- 2022年3月：[第21期：科研与爱好](https://mp.weixin.qq.com/s/jSkT1qM0dGK_4AkBVBNfbQ)
+
 
 ## 贡献者（GitHub ID）
 

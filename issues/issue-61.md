@@ -1,11 +1,11 @@
 # 生信爱好者周刊（第 61 期）：基因对寿命的影响
 
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly]([https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")](https://github.com/ShixiangWang/weekly))），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
 
-[「生信周刊讨论区」]([https://github.com/ShixiangWang/weekly/discussions "「生信周刊讨论区」")](https://github.com/ShixiangWang/weekly/discussions))
-
+[「生信周刊讨论区」](https://github.com/ShixiangWang/weekly/discussions "「生信周刊讨论区」")
 
 ## 封面图
 

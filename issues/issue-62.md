@@ -42,7 +42,7 @@ comments: true
 
 ## 生信研究
 
-1、[Science：冷冻人类大脑分析揭示出与年龄相关的“超突变性”](https://mp.weixin.qq.com/s/0ecv-pOZjzbm3nzc2pJHNA)
+1、[Science | 冷冻人类大脑分析揭示出与年龄相关的“超突变性”](https://mp.weixin.qq.com/s/0ecv-pOZjzbm3nzc2pJHNA)
 
 
 ![](https://files.mdnice.com/user/4331/01e267ab-a58d-40dc-967e-3ae6b410601e.png)

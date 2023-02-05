@@ -46,6 +46,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 
+### 二月
+
+- 第 63 期：[停止寻找的最佳时间](issues/issue-63.md)
+
 ### 一月
 
 - 第 62 期：[回望与兔年寄语](issues/issue-62.md)

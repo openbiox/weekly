@@ -9,13 +9,14 @@
 
 成员：
 
-- [`@ShixiangWang`](https://github.com/ShixiangWang)
-- [`@kkjtmac`](https://github.com/kkjtmac)
-- [`@NiEntropy`](https://github.com/NiEntropy)
-- [`@He-Kai-fly`](https://github.com/He-Kai-fly)
-- [`@JnanZhang`](https://github.com/JnanZhang)
-- [`@Tomcxf`](https://github.com/Tomcxf)
-- [`@wangdepin`](https://github.com/wangdepin)
+- [`@ShixiangWang`](https://github.com/ShixiangWang) - 王诗翔
+- [`@kkjtmac`](https://github.com/kkjtmac) - 阚科佳
+- [`@NiEntropy`](https://github.com/NiEntropy) - 赵启祥 
+- [`@He-Kai-fly`](https://github.com/He-Kai-fly) - 何凯
+- [`@JnanZhang`](https://github.com/JnanZhang) - 张佳楠
+- [`@Tomcxf`](https://github.com/Tomcxf) - 陈啸枫 
+- [`@wangdepin`](https://github.com/wangdepin) - 王德品
+- [`@kongjianyang`](https://github.com/kongjianyang) - 唐亮
 
 轮值负责排班表见 https://github.com/ShixiangWang/weekly/discussions/1020
 

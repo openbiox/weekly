@@ -40,6 +40,7 @@ assignees: ShixiangWang
 - `@JnanZhang`（张佳楠）
 - `@Tomcxf`（陈啸枫）
 - `@wangdepin`（王德品）
+- `@kongjianyang`（唐亮）
 
 ## 订阅
 

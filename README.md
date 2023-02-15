@@ -16,7 +16,7 @@
 - [`@JnanZhang`](https://github.com/JnanZhang) - 张佳楠
 - [`@Tomcxf`](https://github.com/Tomcxf) - 陈啸枫 
 - [`@wangdepin`](https://github.com/wangdepin) - 王德品
-- [`@kongjianyang`](https://github.com/kongjianyang) - 唐亮
+- [`@kongjianyang`](https://github.com/kongjianyang) - 空间阳
 
 轮值负责排班表见 https://github.com/ShixiangWang/weekly/discussions/1020
 

@@ -18,7 +18,7 @@
 - [`@wangdepin`](https://github.com/wangdepin) - 王德品
 - [`@kongjianyang`](https://github.com/kongjianyang) - 空间阳
 
-轮值负责排班表见 https://github.com/ShixiangWang/weekly/issues/1352
+轮值负责排班表见 <https://github.com/ShixiangWang/weekly/issues/1352>
 
 
 --------------

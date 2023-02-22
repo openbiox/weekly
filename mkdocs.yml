@@ -85,7 +85,7 @@ nav:
       - issue-2.md
       - issue-1.md
       
-    - 排班表: https://github.com/ShixiangWang/weekly/discussions/1020
+    - 排班表: https://github.com/ShixiangWang/weekly/issues/1352
     - 内容推荐: https://github.com/ShixiangWang/weekly/issues/new?assignees=&labels=%E6%8E%A8%E8%8D%90&template=a-recommand.md&title=%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E5%B0%81%E9%9D%A2%2F%E8%AF%9D%E9%A2%98%2F%E7%94%9F%E4%BF%A1%E7%A0%94%E7%A9%B6%2F%E5%8D%9A%E6%96%87%E8%B5%84%E8%AE%AF%2F%E5%B7%A5%E5%85%B7%2F%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90+%7C+xxx
 markdown_extensions:
     - smarty

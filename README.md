@@ -48,6 +48,7 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 二月
+- 第 66 期：[退休越晚、寿命越短？有关系么](issues/issue-66.md)
 - 第 65 期：[125个科学问题：探索与发现](issues/issue-65.md)
 - 第 64 期：[“讨好型人格”：越是乞求，越是被推开](issues/issue-64.md)
 - 第 63 期：[停止寻找的最佳时间](issues/issue-63.md)

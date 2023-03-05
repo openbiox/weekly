@@ -47,6 +47,9 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 
+### 三月
+- 第 67 期：[你是如何活用ChatGPT给你打工的？](issues/issue-67.md)
+
 ### 二月
 - 第 66 期：[退休越晚、寿命越短？有关系么](issues/issue-66.md)
 - 第 65 期：[125个科学问题：探索与发现](issues/issue-65.md)

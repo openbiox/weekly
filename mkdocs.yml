@@ -96,3 +96,7 @@ markdown_extensions:
         permalink: True
         separator: "-"
         toc_depth: 3
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
+

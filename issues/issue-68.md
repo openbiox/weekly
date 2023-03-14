@@ -130,8 +130,7 @@ comments: true
 
 
 
-10、[gghighlight | 突出gglot2中图形元素的R包](https://mp.weixin.qq.com/s/GeHYQp1rBJ-Gksel3GkIuw)
-
+10、gghighlight | 突出gglot2中图形元素的R包
 ![](https://kaikaihe.oss-cn-beijing.aliyuncs.com/image/202303112113874.png)
 
 - 工具教程：https://yutannihilation.github.io/gghighlight/articles/gghighlight.html

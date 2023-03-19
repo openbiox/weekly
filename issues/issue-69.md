@@ -124,7 +124,7 @@ archivist包可以用来存储R语言中对象的副本以及它们的元数据�
 11、[survex包 | 在生存分析中应用可解释的机器学习](https://github.com/ModelOriented/survex)
 
 
-![](https://files.mdnice.com/user/34023/d9f9de62-18e6-4632-9c03-8ad98ae80ac5.png)
+![](https://user-images.githubusercontent.com/45822462/225641247-06770a71-cf86-4681-84f6-cbc0281aed81.png#id=wJBOA&originHeight=1545&originWidth=2000&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 
 survex包为解释生存模型提供了易于应用的方法，包括复杂的黑箱和较简单的统计模型。

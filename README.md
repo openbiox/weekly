@@ -48,7 +48,7 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 三月
-
+- 第 69 期：[如何引导年轻科研工作者？](issues/issue-69.md)
 - 第 68 期：[颠覆性大滑坡，科研还能有实质创新吗？](issues/issue-68.md)
 - 第 67 期：[你是如何活用ChatGPT给你打工的？](issues/issue-67.md)
 

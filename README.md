@@ -47,6 +47,9 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 
+### 四月
+- 第 71 期：[博士生真的需要一天看20篇文献吗？](issue/issue-71.md)
+
 ### 三月
 - 第 70 期：[多彩多姿的科学家](issue/issue-70.md)
 - 第 69 期：[如何引导年轻科研工作者？](issues/issue-69.md)

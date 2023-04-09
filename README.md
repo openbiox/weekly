@@ -48,15 +48,19 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 四月
+
+- 第 72 期：[把时间当作朋友](issue/issue-72.md)
 - 第 71 期：[博士生真的需要一天看20篇文献吗？](issue/issue-71.md)
 
 ### 三月
+
 - 第 70 期：[多彩多姿的科学家](issue/issue-70.md)
 - 第 69 期：[如何引导年轻科研工作者？](issues/issue-69.md)
 - 第 68 期：[颠覆性大滑坡，科研还能有实质创新吗？](issues/issue-68.md)
 - 第 67 期：[你是如何活用ChatGPT给你打工的？](issues/issue-67.md)
 
 ### 二月
+
 - 第 66 期：[退休越晚、寿命越短？有关系么](issues/issue-66.md)
 - 第 65 期：[125个科学问题：探索与发现](issues/issue-65.md)
 - 第 64 期：[“讨好型人格”：越是乞求，越是被推开](issues/issue-64.md)

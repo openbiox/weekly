@@ -48,7 +48,7 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 四月
-
+- 第 73 期：[迄今为止最开放、成果最多的大队列是如何建成的](issue/issue-73.md)
 - 第 72 期：[把时间当作朋友](issue/issue-72.md)
 - 第 71 期：[博士生真的需要一天看20篇文献吗？](issue/issue-71.md)
 

@@ -48,13 +48,13 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 四月
-- 第 73 期：[迄今为止最开放、成果最多的大队列是如何建成的](issue/issue-73.md)
-- 第 72 期：[把时间当作朋友](issue/issue-72.md)
-- 第 71 期：[博士生真的需要一天看20篇文献吗？](issue/issue-71.md)
+- 第 73 期：[迄今为止最开放、成果最多的大队列是如何建成的](issues/issue-73.md)
+- 第 72 期：[把时间当作朋友](issues/issue-72.md)
+- 第 71 期：[博士生真的需要一天看20篇文献吗？](issues/issue-71.md)
 
 ### 三月
 
-- 第 70 期：[多彩多姿的科学家](issue/issue-70.md)
+- 第 70 期：[多彩多姿的科学家](issues/issue-70.md)
 - 第 69 期：[如何引导年轻科研工作者？](issues/issue-69.md)
 - 第 68 期：[颠覆性大滑坡，科研还能有实质创新吗？](issues/issue-68.md)
 - 第 67 期：[你是如何活用ChatGPT给你打工的？](issues/issue-67.md)

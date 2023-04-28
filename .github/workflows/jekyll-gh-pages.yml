@@ -12,9 +12,11 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        uses: openbiox/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: mkdocs.yml

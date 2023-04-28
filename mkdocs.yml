@@ -111,6 +111,9 @@ plugins:
       categories:
         - issues
       pretty_print: True
+      length: 1000
+      as_creation: "date"
+      
   - search:
       separator: '[\s\u200b\-]'
 

@@ -1,5 +1,5 @@
 ---
-date: "2023-3-24"
+date: 2023-03-24
 comments: true
 ---
 

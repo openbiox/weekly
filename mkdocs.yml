@@ -1,4 +1,6 @@
 site_name: 生信爱好者周刊
+site_url: https://shixiangwang.github.io/weekly/
+site_description: 记录每周值得分享的生信相关内容，周日发布。
 docs_dir: "issues"
 site_dir: "site"
 theme:
@@ -103,6 +105,7 @@ markdown_extensions:
         separator: "-"
         toc_depth: 3
 plugins:
+  - rss
   - search:
       separator: '[\s\u200b\-]'
 

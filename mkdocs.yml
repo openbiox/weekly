@@ -119,4 +119,4 @@ plugins:
       
   - search:
       separator: '[\s\u200b\-]'
-
+  - git-revision-date

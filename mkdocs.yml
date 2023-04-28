@@ -113,6 +113,7 @@ plugins:
       pretty_print: True
       length: 1000
       as_creation: "date"
+      datetime_format: "%Y-%m-%d"
       
   - search:
       separator: '[\s\u200b\-]'

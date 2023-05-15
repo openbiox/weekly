@@ -1,3 +1,10 @@
+---
+date: 2023-05-15
+comments: true
+---
+
+# 生信爱好者周刊（第 75 期）：学术需要批判氛围
+
 这里记录每周值得分享的生信相关内容，周日发布。 
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。 

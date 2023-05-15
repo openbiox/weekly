@@ -47,8 +47,12 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 
-### 四月
+### 五月
+
 - 第 75 期：[学术需要批判氛围](issues/issue-75.md)
+
+### 四月
+
 - 第 74 期：[新技术的最大风险](issues/issue-74.md)
 - 第 73 期：[迄今为止最开放、成果最多的大队列是如何建成的](issues/issue-73.md)
 - 第 72 期：[把时间当作朋友](issues/issue-72.md)

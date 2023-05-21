@@ -49,6 +49,7 @@ $ grep -nri bash issues | cat --number
 
 ### 五月
 
+- 第 76 期：[人生是一个长板问题](issues/issue-76.md)
 - 第 75 期：[学术需要批判氛围](issues/issue-75.md)
 
 ### 四月

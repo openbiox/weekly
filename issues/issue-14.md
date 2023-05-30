@@ -7,13 +7,13 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
 GitHub 粉们可以通过 Watch 仓库的 Release（提前）关注发布内容。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/openbiox/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
-[「本期专用讨论区」](https://github.com/ShixiangWang/weekly/issues/374)
+[「本期专用讨论区」](https://github.com/openbiox/weekly/issues/374)
 
 ## 封面图
 
@@ -55,7 +55,7 @@ Fabric Genomics Inc的Mark Yandell研究团队联合Martin G. Reese研究团队�
 
 为了解决上述难题，美国Genentech公司研究团队开发了一个名为TraCe-seq (Tracking differential clonal response by scRNA-seq) 的系统，能够同时跟踪肿瘤起源并比较肿瘤细胞对不同疗法的即时反应，大大加速药物反应机制或者耐药机制的研究。
 
-3、[Genome Biology | 精准解析SNV、SV和甲基化的综合性分析方法PRINCESS，填补基因组学研究空白](https://github.com/ShixiangWang/weekly/issues/173)
+3、[Genome Biology | 精准解析SNV、SV和甲基化的综合性分析方法PRINCESS，填补基因组学研究空白](https://github.com/openbiox/weekly/issues/173)
 
 
 ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/2021-12-26/1640522190392-image.png)

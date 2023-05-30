@@ -7,9 +7,9 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
-[「生信周刊讨论区」](https://github.com/ShixiangWang/weekly/discussions)
+[「生信周刊讨论区」](https://github.com/openbiox/weekly/discussions)
 
 ## 封面图
 
@@ -24,7 +24,7 @@ comments: true
 
 ## 生信研究
 
-1、[Advance Funtional Materials | 一款新型隐形眼镜通过快速捕获细胞的“垃圾袋”来进行癌症诊断](https://github.com/ShixiangWang/weekly/issues/950)
+1、[Advance Funtional Materials | 一款新型隐形眼镜通过快速捕获细胞的“垃圾袋”来进行癌症诊断](https://github.com/openbiox/weekly/issues/950)
 
 ![](https://kaikaihe.oss-cn-beijing.aliyuncs.com/image/202303081631499.png)
 

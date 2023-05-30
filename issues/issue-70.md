@@ -6,15 +6,15 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly "openbiox/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
 
-[「生信周刊讨论区」](https://github.com/ShixiangWang/weekly/discussions "「生信周刊讨论区」")
+[「生信周刊讨论区」](https://github.com/openbiox/weekly/discussions "「生信周刊讨论区」")
 
 ## 封面图
 
 ![](https://files.mdnice.com/user/38451/3a4a002f-86aa-4c39-9460-3f0670ede19a.png)
 
-[图片来源：成都露天音乐公园 —— 成都大运会闭幕式举办场地](https://github.com/ShixiangWang/weekly/issues/1445 "图片来源：成都露天音乐公园 —— 成都大运会闭幕式举办场地")
+[图片来源：成都露天音乐公园 —— 成都大运会闭幕式举办场地](https://github.com/openbiox/weekly/issues/1445 "图片来源：成都露天音乐公园 —— 成都大运会闭幕式举办场地")
 
 ## 本周话题：[多彩多姿的科学家](https://mp.weixin.qq.com/s/dW8HuU_swmUdA7CG0mZCAA)  
 

@@ -7,7 +7,7 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。 
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。 
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly "openbiox/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。 
 
 [「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo "「生信周刊讨论区（语雀）」") | [「生信讨论区（Gitter）」](https://gitter.im/ShixiangWang/community "「生信讨论区（Gitter）」")
 
@@ -35,7 +35,7 @@ comments: true
 
 - 论文链接：https://aacrjournals.org/cancerdiscovery/article/11/10/2506/665617/Resolving-the-Spatial-and-Cellular-Architecture-of
 
-2、[Nature Machine intelligence| 华大智造研发团队发布基于对比学习的多模态单细胞算法，快速实现千万级单细胞多组学数据建模](https://github.com/ShixiangWang/weekly/issues/964 "Nature Machine intelligence| 华大智造研发团队发布基于对比学习的多模态单细胞算法，快速实现千万级单细胞多组学数据建模")
+2、[Nature Machine intelligence| 华大智造研发团队发布基于对比学习的多模态单细胞算法，快速实现千万级单细胞多组学数据建模](https://github.com/openbiox/weekly/issues/964 "Nature Machine intelligence| 华大智造研发团队发布基于对比学习的多模态单细胞算法，快速实现千万级单细胞多组学数据建模")
 
 ![](https://kaikaihe.oss-cn-beijing.aliyuncs.com/image/202305092158345.png)
 
@@ -73,7 +73,7 @@ comments: true
 - 论文链接：https://www.nature.com/articles/s41467-022-32041-5
 
 ## 博文咨询
-6、[Wasmtime 1.0 正式发布：快速、安全、可用于生产环境](https://github.com/ShixiangWang/weekly/issues/1027 "Wasmtime 1.0 正式发布：快速、安全、可用于生产环境")
+6、[Wasmtime 1.0 正式发布：快速、安全、可用于生产环境](https://github.com/openbiox/weekly/issues/1027 "Wasmtime 1.0 正式发布：快速、安全、可用于生产环境")
 
 
 ![](https://kaikaihe.oss-cn-beijing.aliyuncs.com/image/202305092220646.png)
@@ -157,7 +157,7 @@ comments: true
 
 `gson包`可一次搞定所有的富集分析。
 
-15、[人人都能用英语](https://github.com/ShixiangWang/weekly/issues/1219 "人人都能用英语")
+15、[人人都能用英语](https://github.com/openbiox/weekly/issues/1219 "人人都能用英语")
 
 
 ![](https://files.mdnice.com/user/5208/618ddcf5-b2f7-4803-bfe0-8c1a74682e5a.png)

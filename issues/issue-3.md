@@ -7,13 +7,13 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
 GitHub 粉们可以通过 Watch 仓库的 Release（提前）关注发布内容。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/openbiox/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
-[「本期专用讨论区」](https://github.com/ShixiangWang/weekly/issues/32)
+[「本期专用讨论区」](https://github.com/openbiox/weekly/issues/32)
 
 ## 封面图
 
@@ -140,7 +140,7 @@ GitHub 粉们可以通过 Watch 仓库的 Release（提前）关注发布内容�
 哈佛大学/丹特-法博癌症研究所Cathy Wu及X.Shirley Liu 团队在Clinical Cancer Research 期刊上发表了题为*Cross-Site Concordance Evaluation of Tumor DNA and RNA Sequencing Platforms for the CIMAC-CIDC Network*的文章。该研究建立并描述了免疫治疗临床试验中产生的跨中心多组学数据的整合分析平台及策略，并描述了建立多中心网络免疫肿瘤生物标志物开发的关键要素。其中包括平台建设、免疫分析检测的验证和协调、数据读取和集成平台以及多组学数据分析的策略。该研究也指出，DNA 和 RNA 平行测序能够显著提高肿瘤免疫治疗标志物筛选结果，可为精准诊断、精准治疗提供重要的参考信息。
 
 
-https://github.com/ShixiangWang/weekly/issues/40
+https://github.com/openbiox/weekly/issues/40
 
 
 ## 文章

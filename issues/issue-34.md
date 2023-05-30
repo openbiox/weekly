@@ -7,7 +7,7 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
 [「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo) | [「生信讨论区（Gitter）」](https://gitter.im/ShixiangWang/community)
 
@@ -71,7 +71,7 @@ rstudio发布年度会议安排表。注册网址：<https://www.rstudio.com/con
 ![](https://files.mdnice.com/user/4331/bf6a0e3e-0d68-4ce1-bc04-3c7109c3969d.png)
 
 
-3、[T细胞耗竭](https://github.com/ShixiangWang/weekly/issues/476)
+3、[T细胞耗竭](https://github.com/openbiox/weekly/issues/476)
 
 
 ![](https://files.mdnice.com/user/4331/f11d6dbb-4391-4b79-8328-0983a561f107.png)

@@ -7,7 +7,7 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly "openbiox/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
 
 [「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo "「生信周刊讨论区（语雀）」") | [「生信讨论区（Gitter）」](https://gitter.im/ShixiangWang/community "「生信讨论区（Gitter）」")
 
@@ -15,7 +15,7 @@ comments: true
 
 ![](https://files.mdnice.com/user/33257/e40d1c30-7c19-4882-877e-0ccd6f59027d.png)
 
-## 本周话题：[你的苹果M系列芯片电脑跑生信顺利么?](https://github.com/ShixiangWang/weekly/issues/1013 "你的苹果M系列芯片电脑跑生信顺利么?")
+## 本周话题：[你的苹果M系列芯片电脑跑生信顺利么?](https://github.com/openbiox/weekly/issues/1013 "你的苹果M系列芯片电脑跑生信顺利么?")
 
 > ARM平台的苹果M系列芯片自发布以来已经有2年了，更强劲的M2系列芯片也可能在10月份发布。目前生信软件在M系列芯片上的兼容性也日趋完善，想必有不少小伙伴已经入手尝试了，那么来分享一下你在使用苹果M系列芯片电脑跑生信的感想吧！
 

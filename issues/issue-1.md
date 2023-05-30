@@ -7,9 +7,9 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ShixiangWang/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/openbiox/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
 ## 开刊词
 
@@ -37,7 +37,7 @@ comments: true
 
 无论你是一个新手还是老手，想必都有自己的看法。这个问题没有标准答案，可能会一直没有答案。这是个你需要一直学习、一直寻求突破的事业，它让你痛并快乐着，让你舍不得离开座位，让你肚子一圈圈变大。来吧，亲爱的朋友们。
 
-对生信，这里不会给出教科书式的定义。如果你想要畅聊自己的看法，欢迎在[GitHub讨论区](https://github.com/ShixiangWang/weekly/issues/1)发表自己的意见。
+对生信，这里不会给出教科书式的定义。如果你想要畅聊自己的看法，欢迎在[GitHub讨论区](https://github.com/openbiox/weekly/issues/1)发表自己的意见。
 
 从个人的经历来看，生信主要有3大块内容，或者说它基本是由3个学科交叉形成的新的科学。
 

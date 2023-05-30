@@ -7,18 +7,18 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
-[「生信周刊讨论区」](https://github.com/ShixiangWang/weekly/discussions)
+[「生信周刊讨论区」](https://github.com/openbiox/weekly/discussions)
 
 ## 封面图
 
 
 ![](https://files.mdnice.com/user/38451/5df4a1f8-b5fa-4162-9e20-2ac0c614a8f2.png)
 
-[测序中碱基识别](https://github.com/ShixiangWang/weekly/issues/1089)
+[测序中碱基识别](https://github.com/openbiox/weekly/issues/1089)
 
-## 本周话题：[科学创新四十年，我们可能还没搞明白科学和技术的基本概念](https://github.com/ShixiangWang/weekly/issues/821)
+## 本周话题：[科学创新四十年，我们可能还没搞明白科学和技术的基本概念](https://github.com/openbiox/weekly/issues/821)
 
 @wangdepin - “我们中国人默认的科学观的核心就是“科学”与“技术”不分。在我们中国人的日常语言中，“科学”二字特别容易念成“科技”，可是“科技”二字深究起来，更多的是指“技术”，而不是“科学”和“技术”的简称。这说明，在我们的潜意识里，是将“科学”和“技术”混为一谈的。” -- 吴国盛老师的《科学的故事》。如果在概念上我们都理解错误,怎么能进行创新。
 
@@ -114,7 +114,7 @@ aplot包是Y叔开发的在主图周围加注释图的R包。
 工具教程：https://yulab-smu.top/pkgdocs/aplot.html
 
 
-10、[Graphormer](https://github.com/ShixiangWang/weekly/issues/959)
+10、[Graphormer](https://github.com/openbiox/weekly/issues/959)
 
 
 ![](https://files.mdnice.com/user/38451/09f3ba66-2c77-46ad-ace2-4c2660067209.png)

@@ -7,14 +7,14 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
-本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
+本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly "openbiox/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
 
 [「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo "「生信周刊讨论区（语雀）」") | [「生信讨论区（Gitter）」](https://gitter.im/ShixiangWang/community "「生信讨论区（Gitter）」")
 
 ## 封面图
 ![ChMkJlXvk-qIPgFeAAT9U57ckfsAACa9gEWsJYABP1r727](https://user-images.githubusercontent.com/75790226/197990120-2d8bf596-b2a2-400b-959a-0e359fcdc6fd.jpg)
 科夫城堡（Corfe Castle）是位于英国英格兰多塞特郡科夫堡村的一座城堡，兴建者是威廉一世。城堡的历史可以追溯至11世纪。
-## 本周话题： [顶级1区期刊宣布：明年起将不再拒稿！](https://github.com/ShixiangWang/weekly/issues/1112 "顶级1区期刊宣布：明年起将不再拒稿！")
+## 本周话题： [顶级1区期刊宣布：明年起将不再拒稿！](https://github.com/openbiox/weekly/issues/1112 "顶级1区期刊宣布：明年起将不再拒稿！")
 ---
 ![](https://files.mdnice.com/user/37191/e4384c2c-472f-450a-b16c-f07fe55100d4.png)
 >近期，生物学期刊eLife官方宣布了一个重大决定：从2023年1月31日起，所有经过同行评审的文章，eLife都不会作出接受/拒绝的决定，而是直接发布在其网站上。
@@ -33,7 +33,7 @@ comments: true
 原载于知乎：https://www.zhihu.com/question/561322934/answer/2728642986
 
 ## 生信研究
-1. [ Nature | 超6万人全基因组序列分析结果揭示：线粒体DNA插入人类基因组从未停止](https://github.com/ShixiangWang/weekly/issues/1113 " Nature | 超6万人全基因组序列分析结果揭示：线粒体DNA插入人类基因组从未停止")
+1. [ Nature | 超6万人全基因组序列分析结果揭示：线粒体DNA插入人类基因组从未停止](https://github.com/openbiox/weekly/issues/1113 " Nature | 超6万人全基因组序列分析结果揭示：线粒体DNA插入人类基因组从未停止")
 
 
 ![](https://files.mdnice.com/user/37191/76117b5c-1895-4d4e-9e80-45ec48c1b20b.png)
@@ -184,7 +184,7 @@ Github：*https://github.com/liangliangzhuang/Research_writing_tips*
 [[学习任何东西](https://learn-anything.xyz/)](https://learn-anything.xyz/)
 
 ## 历史上的本周
-- 2021 [【周刊】第 10 期 ](https://github.com/ShixiangWang/weekly/issues/281)
+- 2021 [【周刊】第 10 期 ](https://github.com/openbiox/weekly/issues/281)
 ## 贡献者（GitHub ID）
 
 「Openbiox 生信周刊」运维小队：

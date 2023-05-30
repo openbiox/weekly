@@ -1,7 +1,7 @@
 # 生信爱好者周刊 <img src="https://raw.githubusercontent.com/openbiox/wiki/master/static/img/logo-long.png" align="right" width="200"/>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ShixiangWang/weekly/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/openbiox/weekly/graphs/commit-activity)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShixiangWang%2Fweekly&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gitter](https://badges.gitter.im/ShixiangWang/community.svg)](https://gitter.im/ShixiangWang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -18,18 +18,18 @@
 - [`@wangdepin`](https://github.com/wangdepin) - 王德品
 - [`@kongjianyang`](https://github.com/kongjianyang) - 空间阳
 
-轮值负责排班表见 <https://github.com/ShixiangWang/weekly/issues/1352>
+轮值负责排班表见 <https://github.com/openbiox/weekly/issues/1352>
 
 
 --------------
 
 记录每周值得分享的生信相关内容，周日发布。
 
-欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ShixiangWang/weekly/issues) 。
+欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/openbiox/weekly/issues) 。
 
 ## 如何搜索
 
-1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ShixiangWang/weekly) 进行搜索。（推荐方法）
+1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/openbiox/weekly) 进行搜索。（推荐方法）
 
 2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
 

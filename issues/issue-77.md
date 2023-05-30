@@ -1,3 +1,6 @@
+
+# 生信爱好者周刊（第 77 期）：科研成果被截胡抢发
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

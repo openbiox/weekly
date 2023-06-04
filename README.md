@@ -47,7 +47,12 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 
+### 六月
+
+- 第 78 期：[霸凌是平庸科学家登上顶峰的手段](issues/issue-78.md)
+
 ### 五月
+
 - 第 77 期：[科研成果被截胡抢发](issues/issue-77.md)
 - 第 76 期：[人生是一个长板问题](issues/issue-76.md)
 - 第 75 期：[学术需要批判氛围](issues/issue-75.md)

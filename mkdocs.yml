@@ -17,7 +17,7 @@ theme:
 repo_url: https://github.com/openbiox/weekly
 edit_uri: https://github.com/openbiox/weekly/edit/master/
 site_author: Shixiang Wang
-copyright: Copyright © 2021-2023 ShixiangWang, kkjtmac, NiEntropy, He-Kai-fly, JnanZhang, Tomcxf, wangdepin and Openbiox community
+copyright: Copyright © 2021-2023 ShixiangWang, kkjtmac, NiEntropy, He-Kai-fly, JnanZhang, Tomcxf, wangdepin, kongjianyang and Openbiox community
 nav:
     - 阅读说明: README.md
     - 周刊:

@@ -49,6 +49,7 @@ $ grep -nri bash issues | cat --number
 
 ### 六月
 
+- 第 79 期：[四千周](issues/issue-79.md)
 - 第 78 期：[霸凌是平庸科学家登上顶峰的手段](issues/issue-78.md)
 
 ### 五月

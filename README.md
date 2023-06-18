@@ -48,7 +48,7 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 六月
-
+- 第 80 期：[生活就像一个鱼缸](issues/issue-80.md)
 - 第 79 期：[四千周](issues/issue-79.md)
 - 第 78 期：[霸凌是平庸科学家登上顶峰的手段](issues/issue-78.md)
 

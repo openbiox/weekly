@@ -1,5 +1,6 @@
 ---
-comments:true
+date: 2023-06-18
+comments: true
 ---
 
 # 生信爱好者周刊（第 80 期）：生活就像一个鱼缸

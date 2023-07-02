@@ -47,6 +47,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 
+### 七月
+
+- 第 82 期：[一种新的数字表示方法 Posits](issues/issue-82.md)
+
 ### 六月
 
 - 第 81 期：[好人情节](issues/issue-81.md)

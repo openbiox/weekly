@@ -123,6 +123,7 @@ plugins:
       length: 1000
       as_creation: "date"
       as_update: "date"
+      abstract_chars_count: -1
       #datetime_format: "%Y-%m-%d"
       
   - search:

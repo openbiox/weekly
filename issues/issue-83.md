@@ -10,7 +10,7 @@
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/TxnZTCx6rVFq9jps6aFzhpUgv3ZsfChViaDfHUYLwecIudYZmJzCBnW8YbHfP7Of1L29mOfic6vPE7ib29Ntlnx4Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 本周话题：[2022 Science年度十大科学突破](https://mp.weixin.qq.com/s/I6kBfXwS24dDSG3le65zWg)
-- https://github.com/openbiox/weekly/issues/1247
+
 
 > 每一年，《科学》杂志的编辑团队都会评选出一项年度科学突破冠军以及九项年度科学突破入围奖。它们是一年里最重大的科学发现、科学进展和趋势。
 

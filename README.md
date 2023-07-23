@@ -48,6 +48,7 @@ $ grep -nri bash issues | cat --number
 
 ### 七月
 
+- 第 85 期：[大学是否选生物：适合普通家庭、智力一般的学生](issues/issue-85.md)
 - 第 84 期：[认识自己的缺点](issues/issue-84.md)
 - 第 83 期：[2022 Science年度十大科学突破](issues/issue-83.md)
 - 第 82 期：[一种新的数字表示方法 Posits](issues/issue-82.md)

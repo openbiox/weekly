@@ -45,6 +45,8 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2023
+### 八月
+- 第 87 期：[耿美玉的971是真药的可能性](issues/issue-87.md)
 
 ### 七月
 

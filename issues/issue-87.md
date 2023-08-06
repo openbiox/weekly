@@ -46,7 +46,7 @@ RIBOmap的建立基于一种三元探针策略，包括：(i) splint 探针杂�
 - 论文链接：https://doi.org/10.1126/science.add3067
 
 
-3、[麻省理工团队开发类ChatGPT模型，基于蛋白质大语言模型，加速AI药物发现](https://mp.weixin.qq.com/s/n6QTIszSTJl3yZ3CorCpbg)
+3、[PNAS | 麻省理工团队开发类ChatGPT模型，基于蛋白质大语言模型，加速AI药物发现](https://mp.weixin.qq.com/s/n6QTIszSTJl3yZ3CorCpbg)
 
 ![](https://files.mdnice.com/user/38451/bffa95eb-093a-4f03-ad2d-1e420ab9e54f.png)
 
@@ -55,7 +55,7 @@ RIBOmap的建立基于一种三元探针策略，包括：(i) splint 探针杂�
 
 - 论文链接：https://www.pnas.org/doi/10.1073/pnas.2220778120
 
-4、[生信研究 | 机器学习策略解析葡萄风味的古往今来](https://mp.weixin.qq.com/s/kVpi2uH0iPNVeByYNwROEg)
+4、[PNAS | 机器学习策略解析葡萄风味的古往今来](https://mp.weixin.qq.com/s/kVpi2uH0iPNVeByYNwROEg)
 
 
 ![](https://files.mdnice.com/user/38451/c6c779bd-3f1e-427d-aab1-ecc465b65887.png)

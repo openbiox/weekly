@@ -46,8 +46,8 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 ### 八月
+- 第 88 期：[Vim之父因病离世，一生写下Vim传奇](issues/issue-88.md)
 - 第 87 期：[耿美玉的971是真药的可能性](issues/issue-87.md)
-
 ### 七月
 
 - 第 86 期：[如何做亮眼的研究生？](issues/issue-86.md)

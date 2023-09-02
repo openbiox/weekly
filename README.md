@@ -45,6 +45,9 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2023
+### 九月
+- 第 90 期：[探索的动机](issues/issue-91.md)
+
 ### 八月
 - 第 90 期：[性别视角下的中国科研人员画像](issues/issue-90.md)
 - 第 89 期：[视频学习胜过读书吗？](issues/issue-89.md)

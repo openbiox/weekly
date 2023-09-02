@@ -1,3 +1,10 @@
+---
+date: 2023-09-02
+comments: true
+---
+
+# 生信爱好者周刊（第 91 期）：探索的动机
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
@@ -43,6 +50,10 @@
 近日，MSK研究团队开发了一种基于CRISPR新技术MACHETE，可以切割基因序列的重要靶标部分，反映癌症和其他人类疾病中出现的变化，可用于实验室模型中高效地研究大规模基因缺失，例如CNA。研究团队利用MACHETE揭示了一种导致约15%癌症的基因变化，这可能有助于识别对免疫疗法有反应的患者。
 
 - 论文链接：https://doi.org/10.1038/s43018-022-00443-5
+        
+        
+        
+        
 
 
 

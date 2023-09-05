@@ -114,7 +114,7 @@ PyTorch 2.0 引入了 torch.compile，这是一种编译模式，可以在不更
 
 
 
-8、[MetaTiME:解析肿瘤免疫微环境中的元成分](https://mp.weixin.qq.com/s/0oXYAjcebveCIumQJrRY7Q)
+8、[MetaTiME:解析肿瘤免疫微环境中的元成分](https://github.com/yi-zhang/MetaTiME)
 
 ![](https://files.mdnice.com/user/5208/aa7af991-26bb-41e6-be31-40cbad454db0.png)
 

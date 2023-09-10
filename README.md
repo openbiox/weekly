@@ -45,14 +45,19 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2023
+
 ### 九月
-- 第 90 期：[探索的动机](issues/issue-91.md)
+
+- 第 92 期：[医疗反腐的困境和选项](issues/issue-92.md)
+- 第 91 期：[探索的动机](issues/issue-91.md)
 
 ### 八月
+
 - 第 90 期：[性别视角下的中国科研人员画像](issues/issue-90.md)
 - 第 89 期：[视频学习胜过读书吗？](issues/issue-89.md)
 - 第 88 期：[Vim之父因病离世，一生写下Vim传奇](issues/issue-88.md)
 - 第 87 期：[耿美玉的971是真药的可能性](issues/issue-87.md)
+
 ### 七月
 
 - 第 86 期：[如何做亮眼的研究生？](issues/issue-86.md)

@@ -48,6 +48,7 @@ $ grep -nri bash issues | cat --number
 
 ### 九月
 
+- 第 93 期：[来自妈妈的Y染色体](issues/issue-93.md)
 - 第 92 期：[医疗反腐的困境和选项](issues/issue-92.md)
 - 第 91 期：[探索的动机](issues/issue-91.md)
 

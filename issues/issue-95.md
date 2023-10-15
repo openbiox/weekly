@@ -28,7 +28,8 @@ comments: true
 ## 生信研究
 1、[Science | 错义突变预测模型AlphaMissense](https://mp.weixin.qq.com/s/cLxyItI35oFJ36u-wDZ6Qw) 
 
-![img](https://www.science.org/cms/10.1126/science.adg7492/asset/e028b855-19a9-40ab-a39f-759afedb5b22/assets/images/large/science.adg7492-fa.jpg)
+![image](https://github.com/openbiox/weekly/assets/97931116/ac4b863a-6f42-49cb-9af1-06fff2d3f1dc)
+
 
 AlphaMissense是一种能够识别DNA中导致蛋白质氨基酸变化的错义突变的人工智能模型。它基于AlphaFold模型，结合了大量的遗传和群体数据，可以预测71百万个错义突变的致病性或良性。它的准确率高达89%，远超人类专家的水平。它旨在帮助快速诊断和治疗遗传疾病，并向研究社区开放了预测结果和模型代码。
 

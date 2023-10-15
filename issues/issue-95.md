@@ -150,7 +150,8 @@ GREAT分析是用来直接对基因组区间进行功能富集的一种分析方
 
 13、[丁鹏在伯克利的因果推断讲义](https://mp.weixin.qq.com/s/BtjOnHnJbQR9NYk3ELADEQ)
 
-![image-20231015103801210](C:\Users\zhaoqixiang\AppData\Roaming\Typora\typora-user-images\image-20231015103801210.png)
+![image](https://github.com/openbiox/weekly/assets/97931116/9d37804a-2a42-4606-a090-d56ede916da3)
+
 
 
 

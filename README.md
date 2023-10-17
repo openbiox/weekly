@@ -46,8 +46,12 @@ $ grep -nri bash issues | cat --number
 
 ## 2023
 
-### 九月
+### 十月
+
 - 第 95 期：[中国人群泛基因组联盟](issues/issue-95.md)
+
+### 九月
+
 - 第 94 期：[非线性的世界，线性的你](issues/issue-94.md)
 - 第 93 期：[来自妈妈的Y染色体](issues/issue-93.md)
 - 第 92 期：[医疗反腐的困境和选项](issues/issue-92.md)

@@ -48,6 +48,7 @@ $ grep -nri bash issues | cat --number
 
 ### 十月
 
+- 第 96 期：[如何取得杰出成就](issues/issue-96.md)
 - 第 95 期：[中国人群泛基因组联盟](issues/issue-95.md)
 
 ### 九月

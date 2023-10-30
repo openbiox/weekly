@@ -130,7 +130,7 @@ BPCells可以在大约10分钟内使用2GB的内存分析130万细胞的数据�
 
 ## 历史上的本周
 
-- 第57期：[深度学习并非“简单的统计”，二者距离已越来越远]([https://mp.weixin.qq.com/s/izptp-_1CQ7_8nEwMMFMqQ](https://mp.weixin.qq.com/s/gcSQC2ay0W3ujqeCtMISbA))
+- 第57期：[深度学习并非“简单的统计”，二者距离已越来越远](https://mp.weixin.qq.com/s/gcSQC2ay0W3ujqeCtMISbA)
 
 ## 贡献者（GitHub ID）
 

@@ -45,6 +45,9 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2023
+### 十一月
+- 第 98 期：[自然选择主要作用于基因上吗？](issues/issue-98.md)
+
 
 ### 十月
 - 第 97 期：[失败的读博经历-如何从跌倒中爬起来？](issues/issue-97.md)

@@ -40,7 +40,7 @@ comments: true
 
 - 论文链接：https://doi.org/10.1126/science.adf7044
 
-2、[Nature Methods | 南京大学黄硕团队开发纳米孔蛋白质测序方法](https://mp.weixin.qq.com/s/VuEKNeA9q-ULGmqHILsBIQ)
+2、[Nature Methods | 南京大学黄硕团队开发纳米孔蛋白质测序方法](https://mp.weixin.qq.com/s/JFUviICreDm1dGKN7S8t3w)
 
 
 ![](https://files.mdnice.com/user/38451/559b83f2-5eea-4b06-af9c-800958ebe9b0.png)

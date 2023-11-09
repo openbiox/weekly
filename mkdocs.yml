@@ -144,5 +144,8 @@ plugins:
       
   - search:
       separator: '[\s\u200b\-]'
-  - print-site
+  - with-pdf:
+      author: Openbiox Weekly Team
+      copyright: 2021-
+      cover_title: 生信爱好者周刊
   - git-revision-date

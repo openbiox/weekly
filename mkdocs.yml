@@ -144,4 +144,5 @@ plugins:
       
   - search:
       separator: '[\s\u200b\-]'
+  - print-site
   - git-revision-date

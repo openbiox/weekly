@@ -2,3 +2,4 @@ mkdocs==1.4.2
 mkdocs-material
 mkdocs-rss-plugin
 mkdocs-git-revision-date-plugin
+mkdocs-print-site-plugin

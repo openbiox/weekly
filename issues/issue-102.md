@@ -50,6 +50,8 @@ comments: true
 
 来自美国西奈山伊坎医学院（Icahn School of Medicine at Mount Sinai）的Jose Silva研究团队、来自美国圣裘德儿童研究医院（St. Jude Children’s Research Hospital）的于吉洋研究团队以及来自哥伦比亚大学欧文医学中心（Columbia University Irving Medical Center）的Kevin Kalinsky研究团队在Nature Cancer发表了题为Network-based assessment of HDAC6 activity is highly predictive of pre-clinical and clinical response to the HDAC6 inhibitor ricolinostat的研究论文。该研究基于乳腺癌基因调控网络开发了新的药物敏感度预测模型，可准确预测临床前及临床样本对Ricolinostat的治疗反应。同时该研究通过开展Ib期临床试验证明了Ricolinostat与紫杉醇（Paclitaxel）联合用药方案治疗乳腺癌的安全性与有效性，并通过多组学数据分析揭示了Ricolinostat抑制乳腺癌肿瘤发生发展的新机制。
 
+- 论文链接：https://doi.org/10.1038/s43018-022-00489-5
+
 ## 博文资讯
 
 4、[施一公《自我突围》揭秘他的第一桶金](https://mp.weixin.qq.com/s/CnSqNZKq_7sfNqlAquy-AQ)

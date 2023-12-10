@@ -3,6 +3,8 @@ date: 2023-12-10
 comments: true
 ---
 
+# 生信爱好者周刊（第 103 期）：取消论文发表硬性规定，读博变轻松了吗？
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

@@ -1,5 +1,5 @@
-mkdocs==1.4.2
+mkdocs
 mkdocs-material
-mkdocs-rss-plugin==1.8.0
+mkdocs-rss-plugin
 mkdocs-git-revision-date-plugin
 mkdocs-with-pdf

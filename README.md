@@ -47,6 +47,7 @@ $ grep -nri bash issues | cat --number
 ## 2023
 
 ### 十二月
+- 第 104 期：[百度文心一言和GPT的差距有多大？](issues/issue-104.md)
 - 第 103 期：[取消论文发表硬性规定，读博变轻松了吗？](issues/issue-103.md)
 - 第 102 期：[中国为什么没有世界一流的研究型医科大学](issues/issue-102.md)
 

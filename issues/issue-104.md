@@ -1,3 +1,9 @@
+---
+date: 2023-12-16
+comments: true
+---
+
+# 生信爱好者周刊（第 104 期）：百度文心一言和GPT的差距有多大？
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

@@ -11,7 +11,7 @@ comments: true
 
 讨论区的帖子[《谁在招人？》](https://github.com/openbiox/weekly/issues/2)，提供生信深造和就业信息，欢迎访问或发布学位攻读/工作/实习等岗位。
 
-[「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo)（很少有读者在GitHub回复，换成国内的会不会更好点呢？）
+[「生信周刊讨论区」](https://github.com/openbiox/weekly/discussions "「生信周刊讨论区」")
 
 ## 封面图
 

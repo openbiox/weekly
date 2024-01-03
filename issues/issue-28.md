@@ -9,7 +9,7 @@ comments: true
 
 本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
-[「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo)
+[「生信周刊讨论区」](https://github.com/openbiox/weekly/discussions "「生信周刊讨论区」")
 
 Stereo-seq芯片工作原理及小鼠胚胎发育时空转录组图谱。（[via](https://mp.weixin.qq.com/s/X5tzRGy3MxqywcoQgwsdmw)）
 

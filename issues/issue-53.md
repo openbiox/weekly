@@ -7,7 +7,8 @@ comments: true
 
 这里记录每周值得分享的生信相关内容，周日发布。
 本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
-[「生信周刊讨论区（语雀）」](https://www.yuque.com/shixiangwang/bioinfo) | [「生信讨论区（Gitter）」](https://gitter.im/ShixiangWang/community)
+
+[「生信周刊讨论区」](https://github.com/openbiox/weekly/discussions "「生信周刊讨论区」")
 
 ## 封面图
 ![](https://files.mdnice.com/user/5208/b1e089ca-0fc5-4e6c-bb9d-535b7d1b0f66.png)

@@ -2,7 +2,9 @@
 date: 2023-12-31
 comments: true
 ---
+
 # 生信爱好者周刊（第 106 期）：哪些技能/知识使生物信息学不可替代？
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly "openbiox/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
@@ -11,12 +13,7 @@ comments: true
 
 ## 封面图
 
-
-
-
 ![](https://files.mdnice.com/user/38451/59626336-ce32-444e-af78-8925681bf578.png)
-
-
 
 [一粒沙子大小的太空垃圾在国际空间站上留下的大洞](https://github.com/openbiox/weekly/issues/2098 "一粒沙子大小的太空垃圾在国际空间站上留下的大洞")
 

@@ -44,9 +44,21 @@ $ grep -nri [搜索词] issues | cat --number
 $ grep -nri bash issues | cat --number
 ```
 
+## 2024
+
+### 一月
+
+- 第 107 期：[生命起源与复杂性](issues/issue-107.md)
+
 ## 2023
 
+<details>
+ 
+<summary>2023 列表</summary>
+
 ### 十二月
+
+- 第 106 期：[哪些技能/知识使生物信息学不可替代？](issues/issue-106.md)
 - 第 105 期：[你愿不愿意在一个小县城待一辈子？](issues/issue-105.md)
 - 第 104 期：[百度文心一言和GPT的差距有多大？](issues/issue-104.md)
 - 第 103 期：[取消论文发表硬性规定，读博变轻松了吗？](issues/issue-103.md)
@@ -61,6 +73,7 @@ $ grep -nri bash issues | cat --number
 
 
 ### 十月
+
 - 第 97 期：[失败的读博经历-如何从跌倒中爬起来？](issues/issue-97.md)
 - 第 96 期：[如何取得杰出成就](issues/issue-96.md)
 - 第 95 期：[中国人群泛基因组联盟](issues/issue-95.md)
@@ -127,6 +140,8 @@ $ grep -nri bash issues | cat --number
 - 第 61 期：[基因对寿命的影响](issues/issue-61.md)
 - 第 60 期：[孟德尔诞辰 200 周年](issues/issue-60.md)
 - 第 59 期：[AlphaCode 编程大赛卷趴一半程序员](issues/issue-59.md)
+
+</details>
 
 ## 2022
 

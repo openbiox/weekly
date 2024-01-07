@@ -88,7 +88,7 @@ Nature这篇文章揭示了辐射所致DNA损伤的遗传机制，即辐射所�
 
 本推文分享了如何解决了部署在ubuntu服务器上的shiny app和本地显示的图片字体不一致的问题。
 
-8、`[软件程序结构演变不完全简史](https://mp.weixin.qq.com/s/L2wkIkkVrp1DFcjleAdeZw)`
+8、[软件程序结构演变不完全简史](https://mp.weixin.qq.com/s/L2wkIkkVrp1DFcjleAdeZw)
 
 
 ![](https://files.mdnice.com/user/4331/76bc1103-4e89-48b3-8575-6f12491ee60e.png)
@@ -142,7 +142,7 @@ YOLO (You Only Look Once)是由华盛顿大学的Joseph Redmon和Ali Farhadi开�
 - 工具教程：https://docs.ultralytics.com/zh/
 - 工具链接：https://github.com/ultralytics/yolov5/tree/master
 
-13、`[FastAPI | 一个现代、快速（高性能）的Web框架](https://github.com/tiangolo/fastapi)`
+13、[FastAPI | 一个现代、快速（高性能）的Web框架](https://github.com/tiangolo/fastapi)
 
 
 ![](https://files.mdnice.com/user/4331/2aa215b5-a1f8-4bba-8236-c30ed0355ed2.png)
@@ -176,11 +176,11 @@ FastAPI是一个现代、快速（高性能）的Web框架，用于基于标准P
 
 目前流行的强化学习算法包括 Q-learning、SARSA、DDPG、A2C、PPO、DQN 和 TRPO。这些算法已被用于在游戏、机器人和决策制定等各种应用中，并且这些流行的算法还在不断发展和改进，本文结合相应的代码对上述算法做了一个简单的介绍。
 
-16、`[10张图总结2023年人工智能状况](https://www.163.com/dy/article/I256DRIB051193U6.html)`
+16、[10张图总结2023年人工智能状况](https://www.163.com/dy/article/I256DRIB051193U6.html)
 
 文章10张图表，捕捉了当今人工智能的基本趋势。
 
-17、`[Top 计算生物学资源](https://github.com/crazyhottommy/compbio_resources_chatomics/blob/main/top_compbio_resources.pdf)`
+17、[Top 计算生物学资源](https://github.com/crazyhottommy/compbio_resources_chatomics/blob/main/top_compbio_resources.pdf)
 
 
 ![](https://files.mdnice.com/user/4331/5c80fdc9-3e15-4acc-ac03-900c54d963c4.png)

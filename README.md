@@ -48,6 +48,7 @@ $ grep -nri bash issues | cat --number
 
 ### 一月
 
+- 第 108 期：[肿瘤微生物组是污染，还是新突破](issues/issue-108.md)
 - 第 107 期：[生命起源与复杂性](issues/issue-107.md)
 
 ## 2023

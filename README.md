@@ -47,6 +47,7 @@ $ grep -nri bash issues | cat --number
 ## 2024
 
 ### 一月
+- 第 110 期：[至少20年不过时的研究方向在哪里？](issues/issue-110.md)
 - 第 109 期：[说说你今年用的顺手的工具吧？](issues/issue-109.md)
 - 第 108 期：[肿瘤微生物组是污染，还是新突破](issues/issue-108.md)
 - 第 107 期：[生命起源与复杂性](issues/issue-107.md)

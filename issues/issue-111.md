@@ -2,6 +2,7 @@
 date: 2024-02-03
 comments: true
 ---
+
 # 生信爱好者周刊（第 111 期）：三十多岁博士后对于生活的挣扎
 
 这里记录每周值得分享的生信相关内容，周日发布。
@@ -14,10 +15,6 @@ comments: true
 
 
 ![](https://files.mdnice.com/user/5208/3e1794e4-f8af-4e01-bbac-852c59d9b1b6.png)
-
-
-
-
 
 ## 本周话题：[三十多岁博士后对于生活的挣扎](https://mp.weixin.qq.com/s/23unkXe5Ba2-oLa-USd_JQ "三十多岁博士后对于生活的挣扎")
 

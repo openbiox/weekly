@@ -48,6 +48,7 @@ $ grep -nri bash issues | cat --number
 
 ### 三月
 
+- 第 114 期：[从复杂系统中，抓住奇妙的普适性](issues/issue-114.md)
 - 第 113 期：[空间分析技术照亮肿瘤微环境研究](issues/issue-113.md)
 
 ### 二月

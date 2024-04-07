@@ -46,8 +46,11 @@ $ grep -nri bash issues | cat --number
 
 ## 2024
 
-### 三月
+### 四月
+- 第 118 期：[滴血验癌](issues/issue-118.md)
 
+### 三月
+- 第 117 期：
 - 第 116 期：[我国科研影响力是否已达到世界顶尖水平？](issues/issue-116.md)
 - 第 115 期：[罗莎琳德·富兰克林对DNA双螺旋结构的真实贡献](issues/issue-115.md)
 - 第 114 期：[从复杂系统中，抓住奇妙的普适性](issues/issue-114.md)

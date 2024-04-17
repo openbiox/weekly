@@ -48,6 +48,7 @@ $ grep -nri bash issues | cat --number
 
 ### 四月
 
+- 第 119 期：[科学家首次改造了真核生物超过50%的基因组](issues/issue-119.md)
 - 第 118 期：[滴血验癌](issues/issue-118.md)
 
 ### 三月

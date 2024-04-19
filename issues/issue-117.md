@@ -28,11 +28,12 @@ comments: true
 ## 生信研究
 
 1、 [Cancer Discov | 基于AI模型预测肿瘤何时会对化疗产生耐药性](https://mp.weixin.qq.com/s/Mmot45umeFNK8IMmKIeg1w)
+
 ![image](https://github.com/openbiox/weekly/assets/108639312/dd756566-61d9-44a2-b629-108e8a471ad5)
 
 研究团队报道了如何利用机器学习算法来解决癌症研究面临的最大挑战之一：预测肿瘤何时会对化疗产生耐药性。研究人员采用深度学习算法开发了一套预测模型，阐明了癌症突变如何影响癌症对常见RSi药物的反应，促进了多种药物的预测和机制解释。通过对肿瘤细胞的初步研究确定了41个分子组件（molecular assemblies），这些分子组件整合了数百个基因的改变，可以用于准确的药物反应预测。这些分子组件涵盖了在转录、修复、细胞周期检查点和生长信号传导中的作用，其中有30个通过功能丧失基因筛查来调节药物敏感性或复制重启。验证研究显示，该模型可用于预测宫颈癌患者的顺铂治疗反应。
 
-- 论文链接：https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03081-x
+- 论文链接：https://aacrjournals.org/cancerdiscovery/article/14/3/508/734904/Cancer-Mutations-Converge-on-a-Collection-of
 
 2、 [Cancer Discovery丨大规模泛癌细胞系筛选确定可行有效的药物组合](https://mp.weixin.qq.com/s/WF4gDh0iS1bNq7j0lwTvAQ)
 

@@ -16,6 +16,7 @@
 - [`@Tomcxf`](https://github.com/Tomcxf) - 陈啸枫 
 - [`@wangdepin`](https://github.com/wangdepin) - 王德品
 - [`@kongjianyang`](https://github.com/kongjianyang) - 空间阳
+- [`@donghongyu2020`](https://github.com/donghongyu2020) - 董弘禹
 
 轮值负责排班表见 <https://github.com/openbiox/weekly/issues/1352>
 

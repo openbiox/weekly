@@ -41,6 +41,7 @@ assignees: ShixiangWang
 - `@Tomcxf`（陈啸枫）
 - `@wangdepin`（王德品）
 - `@kongjianyang`（空间阳）
+- `@donghongyu2020`（董弘禹）
 
 ## 订阅
 

@@ -17,6 +17,7 @@
 - [`@wangdepin`](https://github.com/wangdepin) - 王德品
 - [`@kongjianyang`](https://github.com/kongjianyang) - 空间阳
 - [`@donghongyu2020`](https://github.com/donghongyu2020) - 董弘禹
+- [`@DrRobinLuo`](https://github.com/DrRobinLuo) - 罗鹏
 
 轮值负责排班表见 <https://github.com/openbiox/weekly/issues/1352>
 
@@ -47,7 +48,11 @@ $ grep -nri bash issues | cat --number
 
 ## 2024
 
+### 五月
+
+
 ### 四月
+
 - 第 121 期：[不唯论文，在中国可行吗？](issues/issue-121.md)
 - 第 120 期：[技术写作的首要诀窍](issues/issue-120.md)
 - 第 119 期：[科学家首次改造了真核生物超过50%的基因组](issues/issue-119.md)

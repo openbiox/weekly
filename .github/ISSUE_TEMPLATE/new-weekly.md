@@ -42,6 +42,7 @@ assignees: ShixiangWang
 - `@wangdepin`（王德品）
 - `@kongjianyang`（空间阳）
 - `@donghongyu2020`（董弘禹）
+- `@DrRobinLuo`（罗鹏）
 
 ## 订阅
 

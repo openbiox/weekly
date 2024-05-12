@@ -2,7 +2,9 @@
 date: 2024-04-28
 comments: true
 ---
+
 # 生信爱好者周刊（第 121 期）：不唯论文，在中国可行吗？
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly "openbiox/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

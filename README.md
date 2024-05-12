@@ -50,6 +50,7 @@ $ grep -nri bash issues | cat --number
 
 ### 五月
 
+- 第 122 期：[他山之石——开启个性化医疗的基因组探索](issues/issue-122.md)
 
 ### 四月
 

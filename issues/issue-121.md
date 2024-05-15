@@ -130,7 +130,7 @@ Biolord模型，是Mor Nitzan团队开发的一个前沿的深度生成框架，
 
 ## 工具
 
-9、[R包 ｜splitstackshape](https://github.com/mrdwab/splitstackshape "R包 ｜splitstackshape")
+9、[R包 ｜splitstackshape](https://github.com/mrdwab/splitstackshape)
 
 
 ![](https://files.mdnice.com/user/38451/86cc5949-ba05-4194-ab36-5bcd6e99daf2.png)
@@ -155,6 +155,7 @@ Black 是一个不妥协的 Python 代码格式化工具。使用它，你同意
 ## 资源
 
 11、[清华大学生物信息学课件资料分享](https://mp.weixin.qq.com/s/SyaXxr0NKgF1BTsN7rPZog)
+
 ![](https://files.mdnice.com/user/38451/a9a056b7-6e6e-435d-a993-929cc869db64.png)
 
 
@@ -174,9 +175,7 @@ Seurat vs. Scanpy单细胞转录组分析比较的源代码。大家可以跑跑
 收集多个学习资源来理解LLMs。想了解LLM的同学可以看看。
 
 
-14、[Common statistical tests ]( "Common statistical tests ")
-
-
+14、[Common statistical tests](https://lindeloev.github.io/tests-as-linear/)
 
 ![](https://files.mdnice.com/user/38451/ba785546-7c23-4b6e-9b87-65498a37cab7.png)
 

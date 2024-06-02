@@ -48,6 +48,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2024
 
+### 六月
+
+- 第 125 期：[一周是一年的2%](issues/issue-125.md)
+
 ### 五月
 
 - 第 124 期：[《Cell》癌症研究五十年：十大要点总结](issues/issue-124.md)

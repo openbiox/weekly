@@ -49,7 +49,7 @@ $ grep -nri bash issues | cat --number
 ## 2024
 
 ### 六月
-
+- 第 127 期: [高校“青椒”之死：困在“非升即走”里的海归博士](issue/issue-127.md)
 - 第 126 期：[为什么细菌不能变得更大？或者更小？](issues/issue-126.md)
 - 第 125 期：[一周是一年的2%](issues/issue-125.md)
 

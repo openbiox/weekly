@@ -1,3 +1,10 @@
+---
+date: 2024-06-10
+comments: true
+---
+
+# 生信爱好者周刊（第 127 期）：高校“青椒”之死：困在“非升即走”里的海归博士
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。
@@ -8,9 +15,6 @@
 
 
 ![](https://files.mdnice.com/user/5208/9ae14e13-0ddc-42eb-ac4d-e62f3ecb6cb9.png)
-
-
-
 
 
 ## 本周话题：[高校“青椒”之死：困在“非升即走”里的海归博士](https://mp.weixin.qq.com/s/iJRp76lNdwwtxnH1d_iMBg)

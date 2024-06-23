@@ -1,3 +1,11 @@
+---
+date: 2024-06-23
+comments: true
+---
+
+# 生信爱好者周刊（第 128期）：什么事情使你放弃了学术理想？
+
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

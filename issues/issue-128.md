@@ -157,6 +157,9 @@ MEDAL系列研究历时长达5年，此次公布的研究结果聚焦早期可�
 - `@Tomcxf`（陈啸枫）
 - `@wangdepin`（王德品）
 - `@kongjianyang`（空间阳）
+- `@donghongyu2020`（董弘禹）
+- `@DrRobinLuo`（罗鹏）
+
 
 ## 订阅
 

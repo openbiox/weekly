@@ -49,6 +49,7 @@ $ grep -nri bash issues | cat --number
 ## 2024
 
 ### 六月
+- 第 129 期：[怎么才算真正拥有科研思维？](issues/issue-129.md)
 - 第 128 期：[什么事情使你放弃了学术理想？](issues/issue-128.md)
 - 第 127 期: [高校“青椒”之死：困在“非升即走”里的海归博士](issues/issue-127.md)
 - 第 126 期：[为什么细菌不能变得更大？或者更小？](issues/issue-126.md)

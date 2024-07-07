@@ -47,6 +47,8 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2024
+### 七月
+- 第 130 期：[走出还原论，拥抱复杂性](issues/issue-130.md)
 
 ### 六月
 - 第 129 期：[怎么才算真正拥有科研思维？](issues/issue-129.md)

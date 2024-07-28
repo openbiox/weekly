@@ -50,6 +50,7 @@ $ grep -nri bash issues | cat --number
 
 ### 七月
 
+- 第 133 期：[年轻人的魄力](issues/issue-133.md)
 - 第 132 期：[985青年教授自爆学术不端？](issues/issue-132.md)
 - 第 131 期：[2023诺贝尔生理医学奖给了mRNA疫苗技术，没有终身教职的她拿奖了](issues/issue-131.md)
 - 第 130 期：[走出还原论，拥抱复杂性](issues/issue-130.md)

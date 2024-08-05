@@ -48,6 +48,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2024
 
+### 八月
+
+- 第 134 期：[时隔四年撤稿：微生物组与癌症类型存在相关性是数据分析错误所致](issues/issue-134.md)
+
 ### 七月
 
 - 第 133 期：[年轻人的魄力](issues/issue-133.md)

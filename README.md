@@ -50,6 +50,7 @@ $ grep -nri bash issues | cat --number
 
 ### 八月
 
+- 第 135 期：[中国已经成为一个科学超级大国](issues/issue-135.md)
 - 第 134 期：[时隔四年撤稿：微生物组与癌症类型存在相关性是数据分析错误所致](issues/issue-134.md)
 
 ### 七月

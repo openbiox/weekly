@@ -49,6 +49,7 @@ $ grep -nri bash issues | cat --number
 ## 2024
 
 ### 八月
+- 第 137 期：[我为什么离开学术界？](issues/issue-137.md)
 - 第 136 期：[从错误中学习](issues/issue-136.md)
 - 第 135 期：[中国已经成为一个科学超级大国](issues/issue-135.md)
 - 第 134 期：[时隔四年撤稿：微生物组与癌症类型存在相关性是数据分析错误所致](issues/issue-134.md)

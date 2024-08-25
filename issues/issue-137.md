@@ -1,3 +1,7 @@
+---
+date: 2024-08-25
+comments: true
+---
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

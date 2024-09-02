@@ -47,6 +47,8 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2024
+### 九月
+- 第 138 期：[35岁危机之前，大学青年教师们要爬多少阶梯？](issues/issue-138.md)
 
 ### 八月
 - 第 137 期：[我为什么离开学术界？](issues/issue-137.md)

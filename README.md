@@ -50,6 +50,7 @@ $ grep -nri bash issues | cat --number
 
 ### 九月
 
+- 第 139 期：[震惊！基因泰克将关闭癌症免疫学研究部门，明星科学家将离职](issues/issue-139.md)
 - 第 138 期：[35岁危机之前，大学青年教师们要爬多少阶梯？](issues/issue-138.md)
 
 ### 八月

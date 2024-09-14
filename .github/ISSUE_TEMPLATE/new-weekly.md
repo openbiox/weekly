@@ -27,8 +27,6 @@ assignees: ShixiangWang
 
 ## 资源
 
-## 历史上的本周
-
 ## 贡献者（GitHub ID）
 
 「Openbiox 生信周刊」运维小队：
@@ -43,6 +41,8 @@ assignees: ShixiangWang
 - `@kongjianyang`（空间阳）
 - `@donghongyu2020`（董弘禹）
 - `@DrRobinLuo`（罗鹏）
+- `@Wangcy-rachel` - 王春阳
+- `@zoe3251` - 舒晨阳
 
 ## 订阅
 

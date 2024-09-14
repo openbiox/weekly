@@ -22,9 +22,10 @@ comments: true
 - [`@kongjianyang`](https://github.com/kongjianyang) - 空间阳
 - [`@donghongyu2020`](https://github.com/donghongyu2020) - 董弘禹
 - [`@DrRobinLuo`](https://github.com/DrRobinLuo) - 罗鹏
+- [`@Wangcy-rachel`](https://github.com/Wangcy-rachel) - 王春阳
+- [`@zoe3251`](https://github.com/zoe3251) - 舒晨阳
 
 轮值负责排班表见 <https://github.com/openbiox/weekly/issues/1352>
-
 
 --------------
 

@@ -50,10 +50,12 @@ $ grep -nri bash issues | cat --number
 
 ### 九月
 
+- 第 140 期：[七年：一个皖北大学生的一生](issues/issue-140.md)
 - 第 139 期：[震惊！基因泰克将关闭癌症免疫学研究部门，明星科学家将离职](issues/issue-139.md)
 - 第 138 期：[35岁危机之前，大学青年教师们要爬多少阶梯？](issues/issue-138.md)
 
 ### 八月
+
 - 第 137 期：[我为什么离开学术界？](issues/issue-137.md)
 - 第 136 期：[从错误中学习](issues/issue-136.md)
 - 第 135 期：[中国已经成为一个科学超级大国](issues/issue-135.md)
@@ -67,6 +69,7 @@ $ grep -nri bash issues | cat --number
 - 第 130 期：[走出还原论，拥抱复杂性](issues/issue-130.md)
 
 ### 六月
+
 - 第 129 期：[怎么才算真正拥有科研思维？](issues/issue-129.md)
 - 第 128 期：[什么事情使你放弃了学术理想？](issues/issue-128.md)
 - 第 127 期: [高校“青椒”之死：困在“非升即走”里的海归博士](issues/issue-127.md)

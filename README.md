@@ -51,7 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2024
 
 ### 九月
-
+- 第 142 期：[聊聊你最近正在关注的某个领域或者研究热点吧？](issues/issue-142.md)
 - 第 141 期：[那些早逝猝死的学术青年才俊们](issues/issue-141.md)
 - 第 140 期：[七年：一个皖北大学生的一生](issues/issue-140.md)
 - 第 139 期：[震惊！基因泰克将关闭癌症免疫学研究部门，明星科学家将离职](issues/issue-139.md)

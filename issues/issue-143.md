@@ -1,3 +1,10 @@
+---
+date: 2024-10-13
+comments: true
+---
+
+# 生信爱好者周刊（第 143 期）：中国科学家可以摆脱“35岁焦虑”吗
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

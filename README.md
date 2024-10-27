@@ -51,8 +51,9 @@ $ grep -nri bash issues | cat --number
 ## 2024
 
 ### 十月
-- 第 144 期：[物理诺贝尔奖为何颁给了 HNN 之父和深度学习之父？](issues/issue-144.md)
 
+- 第 145 期：[班车司机与诺贝尔奖](issues/issue-145.md)
+- 第 144 期：[物理诺贝尔奖为何颁给了 HNN 之父和深度学习之父？](issues/issue-144.md)
 - 第 143 期：[中国科学家可以摆脱“35岁焦虑”吗？](issues/issue-143.md)
 
 ### 九月

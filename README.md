@@ -50,6 +50,11 @@ $ grep -nri bash issues | cat --number
 
 ## 2024
 
+### 十一月
+
+- 第 146 期：[7年两次考核未过，高校副教授亲历“非升即走”](issues/issue-146.md)
+
+
 ### 十月
 
 - 第 145 期：[班车司机与诺贝尔奖](issues/issue-145.md)

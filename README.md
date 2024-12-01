@@ -51,6 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2024
 
 ### 十一月
+- 第 149 期：[人类细胞图谱计划](issues/issue-149.md)
 - 第 148 期：[AI 革命不应该比喻为互联网，而是晶体管](issues/issue-148.md)
 - 第 147 期：[为什么中外科研课题如此不同？](issues/issue-147.md)
 - 第 146 期：[7年两次考核未过，高校副教授亲历“非升即走”](issues/issue-146.md)

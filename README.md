@@ -49,7 +49,10 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2024
+### 十二月
+- 第 150 期：[自律者，有三戒](issues/issue-150.md)
 
+  
 ### 十一月
 - 第 149 期：[人类细胞图谱计划](issues/issue-149.md)
 - 第 148 期：[AI 革命不应该比喻为互联网，而是晶体管](issues/issue-148.md)

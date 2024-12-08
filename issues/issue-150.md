@@ -33,7 +33,7 @@ comments: true
 
 ## 生信研究
 
-1、[生信研究 | 三篇Nature同期独立发表，揭秘ecDNA的起源、遗传和传播致癌特性](https://mp.weixin.qq.com/s/hDP_v9H2YiC7ekk5aBG-Qg)
+1、[Nature丨ecDNA的起源、遗传和传播致癌特性](https://mp.weixin.qq.com/s/hDP_v9H2YiC7ekk5aBG-Qg)
 
 
 ![](https://files.mdnice.com/user/34023/18419982-987d-417d-a65f-00b4ec1bd7bb.png)

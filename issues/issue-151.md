@@ -1,3 +1,9 @@
+---
+date: 2024-12-01
+comments: true
+---
+# 生信爱好者周刊（第 151 期）：一半以上实验结果无法重复，学术界正在遭遇一场危机吗
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly "ShixiangWang/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

@@ -1,6 +1,6 @@
-date	comments
-2023-11-26
-true
+---
+date: 2024-12-22
+comments: true
 # 生信爱好者周刊（第152期）：2024 Science年度十大科学突破
 
 

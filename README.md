@@ -50,6 +50,7 @@ $ grep -nri bash issues | cat --number
 
 ## 2024
 ### 十二月
+- 第 153 期：[做诚实的学问，做正直的人](issues/issue-153.md)
 - 第 152 期：[2024 Science年度十大科学突破](issues/issue-152.md)
 - 第 151 期：[一半以上实验结果无法重复，学术界正在遭遇一场危机吗](issues/issue-151.md)
 - 第 150 期：[自律者，有三戒](issues/issue-150.md)

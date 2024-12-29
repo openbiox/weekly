@@ -61,12 +61,14 @@ comments: true
 6、[Cancer Cell | 癌细胞状态：人类肿瘤单细胞RNA测序十年的经验教训](https://mp.weixin.qq.com/s/EASmIRr9Q5hxO5TdapFMkw)
 
 ![](https://files.mdnice.com/user/33257/727be41e-0db2-4341-9706-39c41e14c928.png)
+![](https://files.mdnice.com/user/33257/34841e02-59aa-4c58-9f4e-5646418e21eb.png)
 
 本文总结了单细胞RNA测序技术在分析人类肿瘤中十年的应用经验，探讨了肿瘤内异质性、计算方法、常见程序和未来研究方向，强调了联合多组学方法全面理解癌症复杂性的重要性。
 
 7、[Cell | 建立整体细胞状态和状态转换的概念框架](https://mp.weixin.qq.com/s/pzTDbd2YgGCrkv5H8Tccig)
 
 ![](https://files.mdnice.com/user/33257/1c80dd07-0edf-42a9-a4d8-3f9c3ebf81de.png)
+![](https://files.mdnice.com/user/33257/db1350ba-49e7-4ed1-b226-6145dc06b85a.jpg)
 
 文提出一个旨在促进定量、整合和预测模型发展的概念框架，以更好地理解细胞的功能、行为和对扰动的响应。尽管目前还存在许多挑战，如数据整合的技术难题、模型的复杂性等，但随着技术的发展，这些问题是有望得到解决的。在未来，随着技术的进步和数据的积累，细胞生物学有望在大数据时代取得重大进展。通过本文提出的框架，研究人员可以更好地理解细胞状态和状态转换，从而推动生物医学研究的发展。
 

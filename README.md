@@ -48,6 +48,14 @@ $ grep -nri [搜索词] issues | cat --number
 $ grep -nri bash issues | cat --number
 ```
 
+## 2025
+### 一月
+
+- 第 154 期：[海归青椒“硬着陆”](issues/issue-154.md)
+
+<details>
+ 
+<summary>2024 列表</summary>
 ## 2024
 ### 十二月
 - 第 153 期：[做诚实的学问，做正直的人](issues/issue-153.md)
@@ -132,6 +140,7 @@ $ grep -nri bash issues | cat --number
 - 第 109 期：[说说你今年用的顺手的工具吧？](issues/issue-109.md)
 - 第 108 期：[肿瘤微生物组是污染，还是新突破](issues/issue-108.md)
 - 第 107 期：[生命起源与复杂性](issues/issue-107.md)
+</details>
 
 ## 2023
 

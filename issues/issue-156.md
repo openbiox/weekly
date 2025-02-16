@@ -90,7 +90,7 @@ Nature Genetics 上这篇文章报道了中国科学院动物研究所赵方庆�
 
 METAFlux，一款基于R语言的代谢通量分析工具，专门用于从单细胞和Bulk RNA-seq数据中推断代谢通量。该工具于2022年发表在《Nature Communications》上，旨在解决现有代谢组学和通量分析方法在模拟复杂肿瘤微环境时的局限性。METAFlux通过基因组尺度的代谢模型从基因表达数据计算代谢反应活性得分，并应用通量平衡分析来估计代谢通量。它特别适用于肿瘤微环境代谢分析，但也适用于非肿瘤细胞。
 
-- 工具链接：https://github.com/milanvarady/Applite
+- 工具链接：https://github.com/KChen-lab/METAFlux
 
 10、[tracksPlot | 轨道/热图](https://mp.weixin.qq.com/s/Wja2YdgzOJydVm0GYMdbZQ)
 

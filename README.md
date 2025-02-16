@@ -50,6 +50,10 @@ $ grep -nri bash issues | cat --number
 
 ## 2025
 
+### 二月
+
+- 第 157 期：[中国学术界，从此告别"杰青"](issues/issue-157.md)
+
 ### 一月
 
 - 第 156 期：[说说2024你的收获吧~](issues/issue-156.md)

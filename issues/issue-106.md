@@ -195,9 +195,9 @@ kingfisher是由昆士兰科技大学微生物组研究中心的 Ben J. Woodcrof
 
 ## 订阅
 
-这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。
+这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。
 
-微信搜索“优雅R”或者扫描二维码，即可订阅。
+微信搜索“生信协作组”或者扫描二维码，即可订阅。
 
 
 ![](https://files.mdnice.com/user/38451/be3fadf5-2122-4bfe-94f5-fabf800ca684.png)

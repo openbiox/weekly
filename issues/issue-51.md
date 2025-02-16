@@ -186,7 +186,7 @@ HeatmapR包中通过mtcars数据展示了如何使用本工具快速绘制复杂
 
 ## 订阅
 
-这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。
-微信搜索“优雅R”或者扫描二维码，即可订阅。
+这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。
+微信搜索“生信协作组”或者扫描二维码，即可订阅。
 ![](https://cdn.nlark.com/yuque/0/2022/png/2626379/1663487227743-514de66e-6232-4ea6-a81a-a27a5bab7110.png#clientId=ue027453f-4bb5-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=ud125f811&originHeight=258&originWidth=258&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u3ed671bb-3a08-4920-82e3-5ff7c894944&title=)
 （完）

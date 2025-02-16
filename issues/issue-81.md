@@ -204,9 +204,9 @@ Cookiecutter 是一个强大的模板工具。Cookiecutter Data Science提供了
 
 ## 订阅
 
-这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。
+这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。
 
-微信搜索“优雅R”或者扫描二维码，即可订阅。
+微信搜索“生信协作组”或者扫描二维码，即可订阅。
 
 ![](https://files.mdnice.com/user/38661/17812364-5134-43ba-92cf-0be6aff405e8.png)
 

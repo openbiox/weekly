@@ -132,9 +132,9 @@ frpc-desktop目前支持所有版本的 frp（Fast Reverse Proxy），旨在通�
 
 ## 订阅
 
-这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。
+这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。
 
-微信搜索“优雅R”或者扫描二维码，即可订阅。
+微信搜索“生信协作组”或者扫描二维码，即可订阅。
 
 
 ![](https://files.mdnice.com/user/33257/1ca7c26a-82bf-4a14-a8d4-9a781945dc18.png)

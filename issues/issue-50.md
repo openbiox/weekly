@@ -199,9 +199,9 @@ Github：*https://github.com/liangliangzhuang/Research_writing_tips*
 
 ## 订阅
 
-这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。
+这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。
 
-微信搜索“优雅R”或者扫描二维码，即可订阅。
+微信搜索“生信协作组”或者扫描二维码，即可订阅。
 
 
 ![](https://files.mdnice.com/user/37191/484e56e7-6d4d-41a3-a70c-53e240bb2dcd.png)

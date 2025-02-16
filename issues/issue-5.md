@@ -284,9 +284,9 @@ shinyAce包使Shiny应用程序开发人员能够在他们的应用程序中使�
 
 ## 订阅
 
-这个周刊每周日发布，同步更新在微信公众号「优雅R」（elegant-r）上。
+这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。
 
-微信搜索“优雅R”或者扫描二维码，即可订阅。
+微信搜索“生信协作组”或者扫描二维码，即可订阅。
 
 ![](https://gitee.com/ShixiangWang/ImageCollection/raw/master/png/202109101438292.jpg)
 

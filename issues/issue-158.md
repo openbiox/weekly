@@ -2,7 +2,7 @@
 date: 2025-03-02
 comments: true
 ---
-# 生信爱好者周刊（第 158期）：诺奖得主、DeepMind创始人：AI离彻底改变人类社会的能力只有10年
+# 生信爱好者周刊（第 158期）：AI离彻底改变人类社会的能力只有10年
 
 这里记录每周值得分享的生信相关内容，周日发布。
 
@@ -15,7 +15,7 @@ comments: true
 ![image](https://github.com/user-attachments/assets/54152759-196e-4f57-863a-dbe8bea0dd54)
 
 
-## 本周话题：[诺奖得主、DeepMind创始人：AI离彻底改变人类社会的能力只有10年](https://mp.weixin.qq.com/s/WTUYJsrOTt0djufxaqT6lA)
+## 本周话题：[AI离彻底改变人类社会的能力只有10年](https://mp.weixin.qq.com/s/WTUYJsrOTt0djufxaqT6lA)
 
 谷歌DeepMind CEO Demis Hassabis说，将人工智能视为普通技术是错误的，人工智能将具有“划时代的意义”，很快将治愈所有疾病、解决气候和能源问题并丰富我们的生活，AGI大概需要 10 年时间，因为还需要 2 到 3 项重大创新，下一项就是基于代理的系统，能够完成你给它的特定目标或任务。
 

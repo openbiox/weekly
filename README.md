@@ -52,6 +52,7 @@ $ grep -nri bash issues | cat --number
 
 ### 二月
 
+- 第 158 期：[AI离彻底改变人类社会的能力只有10年](https://github.com/openbiox/weekly/blob/main/issues/issue-158.md)
 - 第 157 期：[中国学术界，从此告别"杰青"](issues/issue-157.md)
 
 ### 一月

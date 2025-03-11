@@ -51,7 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 二月
-
+- 第 159 期：[生信爱好者周刊（第 159 期）：巴菲特的选人标准](issues/issue-159.md)
 - 第 158 期：[AI离彻底改变人类社会的能力只有10年](https://github.com/openbiox/weekly/blob/main/issues/issue-158.md)
 - 第 157 期：[中国学术界，从此告别"杰青"](issues/issue-157.md)
 

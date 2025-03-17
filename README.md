@@ -50,6 +50,9 @@ $ grep -nri bash issues | cat --number
 
 ## 2025
 
+### 三月
+- 第 160 期：[生信爱好者周刊（第 160 期）：科学评价亟需优化](issues/issue-160.md)
+
 ### 二月
 - 第 159 期：[生信爱好者周刊（第 159 期）：巴菲特的选人标准](issues/issue-159.md)
 - 第 158 期：[AI离彻底改变人类社会的能力只有10年](https://github.com/openbiox/weekly/blob/main/issues/issue-158.md)

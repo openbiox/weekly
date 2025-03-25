@@ -51,6 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 三月
+- 第 161 期：[一半以上实验结果无法重复，学术界正在遭遇一场危机吗？](issues/issue-161.md)
 - 第 160 期：[科学评价亟需优化](issues/issue-160.md)
 
 ### 二月

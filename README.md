@@ -50,7 +50,12 @@ $ grep -nri bash issues | cat --number
 
 ## 2025
 
+### 四月
+
+- 第 163 期：[美国公共数据库对中国科研人员禁用](issues/issue-163.md)
+
 ### 三月
+
 - 第 162 期：['双人成行'对创新的作用](issues/issue-162.md)
 - 第 161 期：[一半以上实验结果无法重复，学术界正在遭遇一场危机吗？](issues/issue-161.md)
 - 第 160 期：[科学评价亟需优化](issues/issue-160.md)

@@ -1,6 +1,6 @@
 ---
 name: New weekly
-about: 创建新一期的周刊（仅限管理员使用）
+about: 创建新一期的周刊（仅限周刊运维团队成员使用）
 title: "【周刊】第 x 期"
 labels: 周刊
 assignees: ShixiangWang
@@ -9,7 +9,10 @@ assignees: ShixiangWang
 
 # 生信爱好者周刊（第 x 期）：
 
-这里记录每周值得分享的生信相关内容，周日发布。
+- 内容编辑：
+- 校对编辑：
+
+这里记录值得分享的生信相关内容，每半月发布。
 
 本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly)），欢迎提交 issue，投稿或推荐生信相关内容。
 
@@ -50,7 +53,7 @@ assignees: ShixiangWang
 
 微信搜索“生信协作组”或者扫描二维码，即可订阅。
 
-![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648306398708-897e7ad4-6008-40f8-9200-ddee834b09a7.png)
+![](https://weekly-1301043367.cos.ap-shanghai.myqcloud.com/20250413112010173.png)
 
 （完）
 

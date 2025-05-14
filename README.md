@@ -51,7 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 四月
-
+- 第 165 期：[明星期刊“落选”引发科学界震动，在中国做学术期刊有多难？](issues/issue-165.md)
 - 第 164 期：[德日学者称中国学术界更偏好“内循环”](issues/issue-164.md)
 - 第 163 期：[美国公共数据库对中国科研人员禁用](issues/issue-163.md)
 

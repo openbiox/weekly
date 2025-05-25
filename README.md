@@ -49,6 +49,8 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2025
+### 五月
+- 第 166 期：[为什么中外科研课题如此不同](issues/issue-166.md)
 
 ### 四月
 - 第 165 期：[明星期刊“落选”引发科学界震动，在中国做学术期刊有多难？](issues/issue-165.md)

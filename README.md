@@ -2,7 +2,7 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/openbiox/weekly/graphs/commit-activity)
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fopenbiox.github.io%2Fweekly%2F&label=Visitor&icon=github&color=%23198754))
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fopenbiox.github.io%2Fweekly%2F&label=Visitor&icon=github&color=%23198754)
 
 本项目由「Openbiox 生信周刊」运维小队维护。
 

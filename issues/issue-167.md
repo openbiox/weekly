@@ -132,7 +132,7 @@ aisuite通过标准化接口让开发者轻松使用多个LLM。使用类似Open
 
 
 
-10、[如何绘制Nature同款尖尖朝上的倒三角热图？]()
+10、[如何绘制Nature同款尖尖朝上的倒三角热图？](https://mp.weixin.qq.com/s/5MEAJZOKmeU-uUWHv4Vo3Q)
 
 ![](https://weekly-1301043367.cos.ap-shanghai.myqcloud.com/20250607220946170.webp)
 

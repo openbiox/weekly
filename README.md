@@ -51,6 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 六月
+- 第 168 期：[”future you“ AI工具，可模拟未来的自己](https://github.com/openbiox/weekly/blob/main/issues/issue-168.md)
 
 - 第 167 期：[打破传统论文评审困局：去中心化如何重塑学术同行评审生态？](issues/issue-167.md)
 

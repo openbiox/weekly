@@ -49,6 +49,9 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2025
+### 七月
+- 第 169 期：[为什么“杰青”要在 35 岁以下单开一条赛道？](https://github.com/openbiox/weekly/blob/main/issues/issue-169.md)
+
 
 ### 六月
 - 第 168 期：[”future you“ AI工具，可模拟未来的自己](https://github.com/openbiox/weekly/blob/main/issues/issue-168.md)

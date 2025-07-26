@@ -50,6 +50,7 @@ $ grep -nri bash issues | cat --number
 
 ## 2025
 ### 七月
+- 第 170 期：[教育部今年增设29种本科专业，彰显什么新趋势？](https://github.com/openbiox/weekly/blob/main/issues/issue-170.md)
 - 第 169 期：[为什么“杰青”要在 35 岁以下单开一条赛道？](https://github.com/openbiox/weekly/blob/main/issues/issue-169.md)
 
 

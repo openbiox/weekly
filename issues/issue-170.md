@@ -1,3 +1,9 @@
+---
+date: 2025-07-20
+comments: true
+---
+# 生信爱好者周刊（第 170 期）：教育部今年增设29种本科专业，彰显什么新趋势？
+
 这里记录每周值得分享的生信相关内容，周日发布。
 
 本杂志开源（GitHub: [openbiox/weekly](https://github.com/openbiox/weekly "openbiox/weekly")），欢迎提交 issue，投稿或推荐生信相关内容。

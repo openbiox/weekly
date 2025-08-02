@@ -1,5 +1,5 @@
 ---
-date: 2025-06-2
+date: 2025-06-17
 comments: true
 ---
 # 生信爱好者周刊（第 168 期）：”future you“ AI工具，可模拟未来的自己

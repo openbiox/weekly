@@ -49,14 +49,20 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2025
+
+### 八月
+
+- 第 171 期：[《自然》：150多年后，性爱的感官秘密终于解开](https://github.com/openbiox/weekly/blob/main/issues/issue-171.md)
+
 ### 七月
+
 - 第 170 期：[教育部今年增设29种本科专业，彰显什么新趋势？](https://github.com/openbiox/weekly/blob/main/issues/issue-170.md)
 - 第 169 期：[为什么“杰青”要在 35 岁以下单开一条赛道？](https://github.com/openbiox/weekly/blob/main/issues/issue-169.md)
 
 
 ### 六月
-- 第 168 期：[”future you“ AI工具，可模拟未来的自己](https://github.com/openbiox/weekly/blob/main/issues/issue-168.md)
 
+- 第 168 期：[”future you“ AI工具，可模拟未来的自己](https://github.com/openbiox/weekly/blob/main/issues/issue-168.md)
 - 第 167 期：[打破传统论文评审困局：去中心化如何重塑学术同行评审生态？](issues/issue-167.md)
 
 ### 五月

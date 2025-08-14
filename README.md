@@ -52,6 +52,7 @@ $ grep -nri bash issues | cat --number
 
 ### 八月
 
+- 第 172 期：[生信爱好者周刊（第 172 期）](https://github.com/openbiox/weekly/blob/main/issues/issue-172.md)
 - 第 171 期：[《自然》：150多年后，性爱的感官秘密终于解开](https://github.com/openbiox/weekly/blob/main/issues/issue-171.md)
 
 ### 七月

@@ -49,6 +49,8 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2025
+### 九月
+- 第 173 期：[为研究需要经费，还是为烧钱而做研究？](https://github.com/openbiox/weekly/blob/main/issues/issue-173.md)
 
 ### 八月
 - 第 172 期：[为什么现在有的大学越来越像高中？](https://github.com/openbiox/weekly/blob/main/issues/issue-172.md)

@@ -48,6 +48,7 @@ nav:
       - 第170期: issue-170.md
       - 第169期: issue-169.md
     - 2025年:
+      - 年度汇总: archive-2025.md
       - 九月: 
         - 第173期: issue-173.md
       - 八月:
@@ -299,8 +300,32 @@ plugins:
       
   - search:
       separator: '[\s\u200b\-]'
+      lang: zh
 #  - with-pdf:
 #      author: Openbiox Weekly Team
 #      copyright: 2021-
 #      cover_title: 生信爱好者周刊
   - git-revision-date
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/openbiox/weekly
+    - icon: fontawesome/solid/rss
+      link: https://openbiox.github.io/weekly/feed_rss_created.xml
+  analytics:
+    feedback:
+      title: 这个页面有帮助吗？
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            感谢您的反馈！
+        - icon: material/thumb-down-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            感谢您的反馈！请通过 
+            <a href="https://github.com/openbiox/weekly/issues" target="_blank" rel="noopener">
+            GitHub Issues</a> 告诉我们如何改进此页面。

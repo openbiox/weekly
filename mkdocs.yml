@@ -11,193 +11,274 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.sections
     - navigation.expand
     - navigation.indexes
     - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 repo_url: https://github.com/openbiox/weekly
 edit_uri: https://github.com/openbiox/weekly/edit/master/
 site_author: Shixiang Wang
 copyright: Copyright © 2021-2023 ShixiangWang, kkjtmac, NiEntropy, He-Kai-fly, JnanZhang, Tomcxf, wangdepin, kongjianyang and Openbiox community
 nav:
-    - 阅读说明: README.md
-    - 周刊:
-      - issue-173.md
-      - issue-172.md
-      - issue-171.md
-      - issue-170.md
-      - issue-169.md
-      - issue-168.md
-      - issue-167.md
-      - issue-166.md
-      - issue-165.md
-      - issue-164.md
-      - issue-163.md
-      - issue-162.md
-      - issue-161.md
-      - issue-160.md
-      - issue-159.md
-      - issue-158.md
-      - issue-157.md
-      - issue-156.md
-      - issue-155.md
-      - issue-154.md
-      - issue-153.md
-      - issue-152.md
-      - issue-151.md
-      - issue-150.md
-      - issue-149.md
-      - issue-148.md
-      - issue-147.md
-      - issue-146.md
-      - issue-145.md
-      - issue-144.md
-      - issue-143.md
-      - issue-142.md
-      - issue-141.md
-      - issue-140.md
-      - issue-139.md
-      - issue-138.md
-      - issue-137.md
-      - issue-136.md
-      - issue-135.md
-      - issue-134.md
-      - issue-133.md
-      - issue-132.md
-      - issue-131.md
-      - issue-130.md
-      - issue-129.md
-      - issue-128.md
-      - issue-127.md
-      - issue-126.md
-      - issue-125.md
-      - issue-124.md
-      - issue-123.md
-      - issue-122.md
-      - issue-121.md
-      - issue-120.md
-      - issue-119.md
-      - issue-118.md
-      - issue-117.md
-      - issue-116.md
-      - issue-115.md
-      - issue-114.md
-      - issue-113.md
-      - issue-112.md
-      - issue-111.md
-      - issue-110.md
-      - issue-109.md
-      - issue-108.md
-      - issue-107.md
-      - issue-106.md
-      - issue-105.md
-      - issue-104.md
-      - issue-103.md
-      - issue-102.md
-      - issue-101.md
-      - issue-100.md
-      - issue-99.md
-      - issue-98.md
-      - issue-97.md
-      - issue-96.md
-      - issue-95.md
-      - issue-94.md
-      - issue-93.md
-      - issue-92.md
-      - issue-91.md
-      - issue-90.md
-      - issue-89.md
-      - issue-88.md
-      - issue-87.md
-      - issue-86.md
-      - issue-85.md
-      - issue-84.md
-      - issue-83.md
-      - issue-82.md
-      - issue-81.md
-      - issue-80.md
-      - issue-79.md
-      - issue-78.md
-      - issue-77.md  
-      - issue-76.md
-      - issue-75.md
-      - issue-74.md
-      - issue-73.md
-      - issue-72.md
-      - issue-71.md
-      - issue-70.md
-      - issue-69.md
-      - issue-68.md
-      - issue-67.md
-      - issue-66.md
-      - issue-65.md
-      - issue-64.md
-      - issue-63.md
-      - issue-62.md
-      - issue-61.md
-      - issue-60.md
-      - issue-59.md
-      - issue-58.md
-      - issue-57.md
-      - issue-56.md
-      - issue-55.md
-      - issue-54.md
-      - issue-53.md
-      - issue-52.md
-      - issue-51.md
-      - issue-50.md
-      - issue-49.md
-      - issue-48.md
-      - issue-47.md
-      - issue-46.md
-      - issue-45.md
-      - issue-44.md
-      - issue-43.md
-      - issue-42.md
-      - issue-41.md
-      - issue-40.md
-      - issue-39.md
-      - issue-38.md
-      - issue-37.md
-      - issue-36.md
-      - issue-35.md
-      - issue-34.md
-      - issue-33.md
-      - issue-32.md
-      - issue-31.md
-      - issue-30.md
-      - issue-29.md
-      - issue-28.md
-      - issue-27.md
-      - issue-26.md
-      - issue-25.md
-      - issue-24.md
-      - issue-23.md
-      - issue-22.md
-      - issue-21.md
-      - issue-20.md
-      - issue-19.md
-      - issue-18.md
-      - issue-17.md
-      - issue-16.md
-      - issue-15.md
-      - issue-14.md
-      - issue-13.md
-      - issue-12.md
-      - issue-11.md
-      - issue-10.md
-      - issue-9.md
-      - issue-8.md
-      - issue-7.md
-      - issue-6.md
-      - issue-5.md
-      - issue-4.md
-      - issue-3.md
-      - issue-2.md
-      - issue-1.md
-      
-    - 排班表: https://github.com/openbiox/weekly/issues/1352
-    - 内容推荐: https://github.com/openbiox/weekly/issues/new?assignees=&labels=%E6%8E%A8%E8%8D%90&template=a-recommand.md&title=%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E5%B0%81%E9%9D%A2%2F%E8%AF%9D%E9%A2%98%2F%E7%94%9F%E4%BF%A1%E7%A0%94%E7%A9%B6%2F%E5%8D%9A%E6%96%87%E8%B5%84%E8%AE%AF%2F%E5%B7%A5%E5%85%B7%2F%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90+%7C+xxx
-    - RSS feed: https://openbiox.github.io/weekly/feed_rss_created.xml
+    - 首页: README.md
+    - 最新期刊:
+      - 第173期: issue-173.md
+      - 第172期: issue-172.md  
+      - 第171期: issue-171.md
+      - 第170期: issue-170.md
+      - 第169期: issue-169.md
+    - 2025年:
+      - 年度汇总: archive-2025.md
+      - 九月: 
+        - 第173期: issue-173.md
+      - 八月:
+        - 第172期: issue-172.md
+        - 第171期: issue-171.md
+      - 七月:
+        - 第170期: issue-170.md
+        - 第169期: issue-169.md
+      - 六月:
+        - 第168期: issue-168.md
+        - 第167期: issue-167.md
+      - 五月:
+        - 第166期: issue-166.md
+        - 第165期: issue-165.md
+      - 四月:
+        - 第164期: issue-164.md
+        - 第163期: issue-163.md
+      - 三月:
+        - 第162期: issue-162.md
+        - 第161期: issue-161.md
+        - 第160期: issue-160.md
+      - 二月:
+        - 第159期: issue-159.md
+        - 第158期: issue-158.md
+        - 第157期: issue-157.md
+      - 一月:
+        - 第156期: issue-156.md
+        - 第155期: issue-155.md
+        - 第154期: issue-154.md
+    - 2024年:
+      - 十二月:
+        - 第153期: issue-153.md
+        - 第152期: issue-152.md
+        - 第151期: issue-151.md
+        - 第150期: issue-150.md
+      - 十一月:
+        - 第149期: issue-149.md
+        - 第148期: issue-148.md
+        - 第147期: issue-147.md
+        - 第146期: issue-146.md
+      - 十月:
+        - 第145期: issue-145.md
+        - 第144期: issue-144.md
+        - 第143期: issue-143.md
+      - 九月:
+        - 第142期: issue-142.md
+        - 第141期: issue-141.md
+        - 第140期: issue-140.md
+        - 第139期: issue-139.md
+        - 第138期: issue-138.md
+      - 八月:
+        - 第137期: issue-137.md
+        - 第136期: issue-136.md
+        - 第135期: issue-135.md
+        - 第134期: issue-134.md
+      - 七月:
+        - 第133期: issue-133.md
+        - 第132期: issue-132.md
+        - 第131期: issue-131.md
+        - 第130期: issue-130.md
+      - 六月:
+        - 第129期: issue-129.md
+        - 第128期: issue-128.md
+        - 第127期: issue-127.md
+        - 第126期: issue-126.md
+        - 第125期: issue-125.md
+      - 五月:
+        - 第124期: issue-124.md
+        - 第123期: issue-123.md
+        - 第122期: issue-122.md
+      - 四月:
+        - 第121期: issue-121.md
+        - 第120期: issue-120.md
+        - 第119期: issue-119.md
+        - 第118期: issue-118.md
+      - 三月:
+        - 第117期: issue-117.md
+        - 第116期: issue-116.md
+        - 第115期: issue-115.md
+        - 第114期: issue-114.md
+        - 第113期: issue-113.md
+      - 二月:
+        - 第112期: issue-112.md
+        - 第111期: issue-111.md
+      - 一月:
+        - 第110期: issue-110.md
+        - 第109期: issue-109.md
+        - 第108期: issue-108.md
+        - 第107期: issue-107.md
+    - 2023年:
+      - 十二月:
+        - 第106期: issue-106.md
+        - 第105期: issue-105.md
+        - 第104期: issue-104.md
+        - 第103期: issue-103.md
+        - 第102期: issue-102.md
+      - 十一月:
+        - 第101期: issue-101.md
+        - 第100期: issue-100.md
+        - 第99期: issue-99.md
+        - 第98期: issue-98.md
+      - 十月:
+        - 第97期: issue-97.md
+        - 第96期: issue-96.md
+        - 第95期: issue-95.md
+      - 九月:
+        - 第94期: issue-94.md
+        - 第93期: issue-93.md
+        - 第92期: issue-92.md
+        - 第91期: issue-91.md
+      - 八月:
+        - 第90期: issue-90.md
+        - 第89期: issue-89.md
+        - 第88期: issue-88.md
+        - 第87期: issue-87.md
+      - 七月:
+        - 第86期: issue-86.md
+        - 第85期: issue-85.md
+        - 第84期: issue-84.md
+        - 第83期: issue-83.md
+        - 第82期: issue-82.md
+      - 六月:
+        - 第81期: issue-81.md
+        - 第80期: issue-80.md
+        - 第79期: issue-79.md
+        - 第78期: issue-78.md
+      - 五月:
+        - 第77期: issue-77.md
+        - 第76期: issue-76.md
+        - 第75期: issue-75.md
+      - 四月:
+        - 第74期: issue-74.md
+        - 第73期: issue-73.md
+        - 第72期: issue-72.md
+        - 第71期: issue-71.md
+      - 三月:
+        - 第70期: issue-70.md
+        - 第69期: issue-69.md
+        - 第68期: issue-68.md
+        - 第67期: issue-67.md
+      - 二月:
+        - 第66期: issue-66.md
+        - 第65期: issue-65.md
+        - 第64期: issue-64.md
+        - 第63期: issue-63.md
+      - 一月:
+        - 第62期: issue-62.md
+        - 第61期: issue-61.md
+        - 第60期: issue-60.md
+        - 第59期: issue-59.md
+    - 2022年:
+      - 十二月:
+        - 第58期: issue-58.md
+        - 第57期: issue-57.md
+        - 第56期: issue-56.md
+        - 第55期: issue-55.md
+      - 十一月:
+        - 第54期: issue-54.md
+        - 第53期: issue-53.md
+        - 第52期: issue-52.md
+        - 第51期: issue-51.md
+      - 十月:
+        - 第50期: issue-50.md
+        - 第49期: issue-49.md
+        - 第48期: issue-48.md
+        - 第47期: issue-47.md
+      - 九月:
+        - 第46期: issue-46.md
+        - 第45期: issue-45.md
+        - 第44期: issue-44.md
+        - 第43期: issue-43.md
+      - 八月:
+        - 第42期: issue-42.md
+        - 第41期: issue-41.md
+        - 第40期: issue-40.md
+        - 第39期: issue-39.md
+      - 七月:
+        - 第38期: issue-38.md
+        - 第37期: issue-37.md
+        - 第36期: issue-36.md
+        - 第35期: issue-35.md
+      - 六月:
+        - 第34期: issue-34.md
+        - 第33期: issue-33.md
+        - 第32期: issue-32.md
+        - 第31期: issue-31.md
+      - 五月:
+        - 第30期: issue-30.md
+        - 第29期: issue-29.md
+        - 第28期: issue-28.md
+      - 四月:
+        - 第27期: issue-27.md
+        - 第26期: issue-26.md
+        - 第25期: issue-25.md
+        - 第24期: issue-24.md
+      - 三月:
+        - 第23期: issue-23.md
+        - 第22期: issue-22.md
+        - 第21期: issue-21.md
+        - 第20期: issue-20.md
+      - 二月:
+        - 第19期: issue-19.md
+        - 第18期: issue-18.md
+      - 一月:
+        - 第17期: issue-17.md
+        - 第16期: issue-16.md
+        - 第15期: issue-15.md
+    - 2021年:
+      - 十二月:
+        - 第14期: issue-14.md
+        - 第13期: issue-13.md
+        - 第12期: issue-12.md
+        - 第11期: issue-11.md
+      - 十一月:
+        - 第10期: issue-10.md
+        - 第9期: issue-9.md
+        - 第8期: issue-8.md
+      - 十月:
+        - 第7期: issue-7.md
+        - 第6期: issue-6.md
+        - 第5期: issue-5.md
+        - 第4期: issue-4.md
+      - 九月:
+        - 第3期: issue-3.md
+        - 第2期: issue-2.md
+        - 第1期: issue-1.md
+    - 关于我们:
+      - 排班表: https://github.com/openbiox/weekly/issues/1352
+      - 内容推荐: https://github.com/openbiox/weekly/issues/new?assignees=&labels=%E6%8E%A8%E8%8D%90&template=a-recommand.md&title=%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E5%B0%81%E9%9D%A2%2F%E8%AF%9D%E9%A2%98%2F%E7%94%9F%E4%BF%A1%E7%A0%94%E7%A9%B6%2F%E5%8D%9A%E6%96%87%E8%B5%84%E8%AE%AF%2F%E5%B7%A5%E5%85%B7%2F%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90+%7C+xxx
+      - RSS订阅: https://openbiox.github.io/weekly/feed_rss_created.xml
 markdown_extensions:
     - smarty
     - toc:
@@ -219,8 +300,32 @@ plugins:
       
   - search:
       separator: '[\s\u200b\-]'
+      lang: zh
 #  - with-pdf:
 #      author: Openbiox Weekly Team
 #      copyright: 2021-
 #      cover_title: 生信爱好者周刊
   - git-revision-date
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/openbiox/weekly
+    - icon: fontawesome/solid/rss
+      link: https://openbiox.github.io/weekly/feed_rss_created.xml
+  analytics:
+    feedback:
+      title: 这个页面有帮助吗？
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            感谢您的反馈！
+        - icon: material/thumb-down-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            感谢您的反馈！请通过 
+            <a href="https://github.com/openbiox/weekly/issues" target="_blank" rel="noopener">
+            GitHub Issues</a> 告诉我们如何改进此页面。

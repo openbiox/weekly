@@ -1,7 +1,8 @@
+---
+date: 2025-09-21
+comments: true
+---
 # 生信爱好者周刊（第174期）：论文难写、查重难过，大学生写毕业论文的意义是什么
-
-- 内容编辑：王春阳
-- 校对编辑：严彬
 
 这里记录值得分享的生信相关内容，每半月发布。
 
@@ -11,7 +12,8 @@
 
 ## 封面图
 
-![image-20250921084502979](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921084502979.png)
+<img width="789" height="426" alt="image" src="https://github.com/user-attachments/assets/8c7b93a7-a27d-4dc7-8c38-42bc01f4732b" />
+
 
 ## 本周话题：[论文难写、查重难过，大学生写毕业论文的意义是什么](https://mp.weixin.qq.com/s/lF0Wd0KaXlEUqgFWT1NRJw)
 
@@ -29,15 +31,17 @@
 
 2、[Cell |癌症免疫大数据平台CIDE：揭示基于分泌蛋白的新免疫疗法](https://mp.weixin.qq.com/s/hqWqaSuhE1q6WH61oAIM_A)
 
-![image-20250921084058267](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921084058267.png)
+<img width="1002" height="823" alt="image" src="https://github.com/user-attachments/assets/100b7262-3787-4d5f-8c05-6f630c9b09de" />
+
 
 文章自主研发了癌症免疫大数据平台CIDE，首次系统解析了人体中1900余种编码分泌蛋白的基因在肿瘤免疫微环境中的调控作用。其中酰氧酰基水解酶（AOAH）能特异性清除免疫抑制性卵磷脂及其氧化产物，犹如“化雪春风”般解除肿瘤免疫抑制，显著增强T细胞受体识别弱抗原的能力并保护树突状细胞的抗原递呈和共刺激功能。
 
--文章链接：https://www.cell.com/cell/abstract/S0092-8674(25)00793-7
+- 文章链接：https://www.cell.com/cell/abstract/S0092-8674(25)00793-7
 
 3、[Nature | 填补92%组装缺口！65个近乎完整人类基因组发表，深度解析复杂遗传变异](https://mp.weixin.qq.com/s/GcpsDxz-Ym9Ql5KZzjNfWg)
 
-![image-20250921084208851](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921084208851.png)
+<img width="872" height="792" alt="image" src="https://github.com/user-attachments/assets/01c85c16-0428-4ede-9c30-ccf855e82701" />
+
 
 文章通过对来自全球28个人群的65个多样性个体（主要来自1KGP）进行深度测序，成功构建了130个高度连续的单倍型基因组，填补了先前92%的基因组组装缺口，39%的染色体达到端粒到端粒（T2T）完整状态。
 
@@ -47,7 +51,8 @@
 
 4、[父母受教育程度越高，孩子5岁以下的死亡率越低](https://mp.weixin.qq.com/s/-EYc_CEKDP_e9nqZGEPFtQ)
 
-![image-20250921081517725](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921081517725.png)
+<img width="755" height="494" alt="image" src="https://github.com/user-attachments/assets/ff072548-02ea-4fa9-8c47-1d9a79529134" />
+
 
 该研究对所有关于父母教育对新生儿、婴儿和 5 岁以下儿童死亡率影响的现有研究进行综合性全球系统评价和荟萃分析，发现母亲和父亲教育的增加均显示出与 5 岁以下儿童死亡率降低相关的剂量反应关系，其中母亲教育成为更强的预测因素。
 
@@ -55,9 +60,10 @@
 
 5、[机器学习中动态预测的作用](https://mp.weixin.qq.com/s/pn-21k2ARmRzu8y6KdFmdg)
 
-![image-20250921083547413](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921083547413.png)
+<img width="1221" height="472" alt="image" src="https://github.com/user-attachments/assets/ff1895f3-6d9f-4aed-88f4-d736ab1e2cdb" />
 
-推文介绍了机器学习中动态预测的优势、讨战和应用，并使用合成数据集介绍了代码实现。
+
+推文介绍了机器学习中动态预测的优势、挑战和应用，并使用合成数据集介绍了代码实现。
 
 6、[焦虑的反面是具体：用3年AI实践和你分享这份AI科研心得指南](https://mp.weixin.qq.com/s/t7I9uVNLwb2-mytQD3a0eQ)
 
@@ -69,7 +75,8 @@
 
 7、[Paper2Poster：一键生成顶会级学术Poster，再也不用为赶会熬夜做PPT啦。](https://mp.weixin.qq.com/s/8-DBSqud9fI2b8j3BUyZUA)
 
-![image-20250921081739098](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921081739098.png)
+<img width="966" height="703" alt="image" src="https://github.com/user-attachments/assets/2a353cc9-97b3-4438-8d6a-252a1a36261f" />
+
 
 Paper2Poster是一种面向科学论文的多模式海报自动化生成方法，主要解决了如何根据论文创建海报以及如何评估海报。
 
@@ -80,13 +87,15 @@ Paper2Poster是一种面向科学论文的多模式海报自动化生成方法�
 
 8、[PSweight: 用于倾向性评分加权分析的R包](https://mp.weixin.qq.com/s/LBSSHomuBMkUDngkZ5l46w)
 
-![image-20250921082455524](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921082455524.png)
+<img width="1019" height="550" alt="image" src="https://github.com/user-attachments/assets/e3d4d303-caa2-460a-ae42-88c6ba427ea9" />
+
 
 推文介绍了PSweight包的主要功能、原理以及函数，并通过NCDS数据案例讲解PSweight包。
 
 9、[大模型翻译个人博客post，中英文双语发布静态网页](https://mp.weixin.qq.com/s/wbW50ILqa05rnpAnJex8bA)
 
-![image-20250921083221439](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921083221439.png)
+<img width="1191" height="386" alt="image" src="https://github.com/user-attachments/assets/e0fb01fe-75ae-4b3f-bf8d-1abba974f73e" />
+
 
 推文利用 python 和 deepseek 对自己依靠 quarto 构建的个人网站上的文章进行了全部的自动翻译，并讲述了实现方法。
 
@@ -99,7 +108,8 @@ Paper2Poster是一种面向科学论文的多模式海报自动化生成方法�
 
 11、[本周推荐的5个超级6的Github开源项目！](https://mp.weixin.qq.com/s/L7HhBKH0QRwl3TQZolLWYQ)
 
-![image-20250921082847935](C:\Users\wangchy\AppData\Roaming\Typora\typora-user-images\image-20250921082847935.png)
+<img width="1012" height="674" alt="image" src="https://github.com/user-attachments/assets/68bef13c-e078-4b4b-b096-4658b58e584e" />
+
 
 推文详细介绍了5个功能强大的Github开源项目。
 
@@ -127,5 +137,6 @@ Paper2Poster是一种面向科学论文的多模式海报自动化生成方法�
 微信搜索“生信协作组”或者扫描二维码，即可订阅。
 
 [![img](https://camo.githubusercontent.com/385a9a0a139aaa480d224ff596a283926d73da3f0abc15cbd24dcfdb6b19d472/68747470733a2f2f7765656b6c792d313330313034333336372e636f732e61702d7368616e676861692e6d7971636c6f75642e636f6d2f32303235303431333131323031303137332e706e67)](https://camo.githubusercontent.com/385a9a0a139aaa480d224ff596a283926d73da3f0abc15cbd24dcfdb6b19d472/68747470733a2f2f7765656b6c792d313330313034333336372e636f732e61702d7368616e676861692e6d7971636c6f75642e636f6d2f32303235303431333131323031303137332e706e67)
+
 
 （完）

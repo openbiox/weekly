@@ -51,6 +51,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 九月
+- 第 174 期：[论文难写、查重难过，大学生写毕业论文的意义是什么](https://github.com/openbiox/weekly/blob/main/issues/issue-174.md)
 - 第 173 期：[为研究需要经费，还是为烧钱而做研究？](https://github.com/openbiox/weekly/blob/main/issues/issue-173.md)
 
 ### 八月

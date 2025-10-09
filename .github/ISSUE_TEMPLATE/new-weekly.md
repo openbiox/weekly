@@ -46,6 +46,8 @@ assignees: ShixiangWang
 - `@DrRobinLuo`（罗鹏）
 - `@Wangcy-rachel` - 王春阳
 - `@zoe3251` - 舒晨阳
+- `@yanbin85` - 严彬
+- `@MadDERt` - 王章宇
 
 ## 订阅
 

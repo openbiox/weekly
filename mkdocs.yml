@@ -42,7 +42,8 @@ copyright: Copyright © 2021-2023 ShixiangWang, kkjtmac, NiEntropy, He-Kai-fly, 
 nav:
     - 首页: README.md
     - 最新期刊:
-      - 第174期：issue-174.md
+      - 第175期: issue-175.md
+      - 第174期: issue-174.md
       - 第173期: issue-173.md
       - 第172期: issue-172.md  
       - 第171期: issue-171.md
@@ -50,7 +51,10 @@ nav:
       - 第169期: issue-169.md
     - 2025年:
       - 年度汇总: archive-2025.md
+      - 十月: 
+        - 第175期: issue-175.md
       - 九月: 
+        - 第174期: issue-174.md
         - 第173期: issue-173.md
       - 八月:
         - 第172期: issue-172.md

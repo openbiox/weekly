@@ -119,6 +119,8 @@ MTiOpenScreen 是一个在线虚拟筛选平台，提供基于 AutoDock 和 Auto
 - `@MadDERt`（王章宇）    
 ## 订阅
 这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。    
-微信搜索“生信协作组”或者扫描二维码，即可订阅。
-![](https://files.mdnice.com/user/143074/4fa0b827-afe2-486c-9b1f-6d1aa805033a.png)
+微信搜索“生信协作组”或者扫描二维码，即可订阅。     
+
+![](https://files.mdnice.com/user/143074/4fa0b827-afe2-486c-9b1f-6d1aa805033a.png)     
+
 （完）

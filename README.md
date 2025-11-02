@@ -56,6 +56,7 @@ $ grep -nri bash issues | cat --number
 ### 十月
 
 - 第 175 期：[“一稿多投” 是作者的合法权利](https://github.com/openbiox/weekly/blob/main/issues/issue-175.md)
+- 第 176 期：[有组织科研，是不是学阀大杀四方，片甲不留？](https://github.com/openbiox/weekly/blob/main/issues/issue-176.md)
 
 ### 九月
 

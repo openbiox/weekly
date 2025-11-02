@@ -1,7 +1,3 @@
----
-date: 2025-11-2
-comments: true
----
 # 生信爱好者周刊（第176期）：有组织科研，是不是学阀大杀四方，片甲不留？
 
 这里记录值得分享的生信相关内容，每半月发布。
@@ -99,4 +95,26 @@ MTiOpenScreen 是一个在线虚拟筛选平台，提供基于 AutoDock 和 Auto
 
 ![](https://files.mdnice.com/user/143074/d4cb02d1-2938-4e69-be87-06ea51183a2a.png)
 
-一个基于Node.js的开放式技术学习平台。它提供了一系列交互式命令行教程作为核心学习资源。这些资源覆盖了从JavaScript、Node.js基础到Git、npm、Electron等全栈开发的系统化课程，所有课程均可通过npm命令免费安装并支持离线学习。
+一个基于Node.js的开放式技术学习平台。它提供了一系列交互式命令行教程作为核心学习资源。这些资源覆盖了从JavaScript、Node.js基础到Git、npm、Electron等全栈开发的系统化课程，所有课程均可通过npm命令免费安装并支持离线学习。   
+
+## 贡献者（GitHub ID）
+「Openbiox 生信周刊」运维小队：
+- `@ShixiangWang`（王诗翔）     
+- `@kkjtmac`（阚科佳）   
+- `@NiEntropy`（赵启祥）   
+- `@He-Kai-fly`（何凯）  
+- `@JnanZhang`（张佳楠）  
+- `@Tomcxf`（陈啸枫）  
+- `@wangdepin`（王德品）  
+- `@kongjianyang`（空间阳）   
+- `@donghongyu2020`（董弘禹）   
+- `@DrRobinLuo`（罗鹏）   
+- `@Wangcy-rachel`（王春阳）   
+- `@zoe3251`（舒晨阳）   
+- `@yanbin85`（严彬）   
+- `@MadDERt`（王章宇）    
+## 订阅
+这个周刊每周日发布，同步更新在微信公众号「生信协作组」（elegant-r）上。    
+微信搜索“生信协作组”或者扫描二维码，即可订阅。
+![](https://files.mdnice.com/user/143074/4fa0b827-afe2-486c-9b1f-6d1aa805033a.png)
+（完）

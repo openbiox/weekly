@@ -24,6 +24,7 @@ comments: true
 ![](https://files.mdnice.com/user/143074/ce1f3b50-c6e3-446f-be55-e16645d0139f.jpg)
 
 基底细胞是气道上皮的主要组成部分，且其标志物如KRT5和p63在LUSC中广泛表达，因此被认为可能是LUSC的起源细胞。研究发现，致癌物暴露导致肺基底细胞发生异常的克隆扩增和迁移，少数高度突变的克隆在支气管区域主导并形成癌前病变。通过多点测序，验证了这些病变之间的克隆相关性，揭示了基底细胞克隆动态和命运转变是肺部“癌变场域效应”的关键驱动因素。    
+
 - 论文链接：https://www.science.org/doi/10.1126/science.ads9145
 
 2、[Cell |李汉杰团队利用单细胞测序技术发现与体型大小相关的免疫细胞：外周小胶质细胞](https://mp.weixin.qq.com/s/KYcmizQGt54CZBcDm2eISQ)  
@@ -31,6 +32,7 @@ comments: true
 ![](https://files.mdnice.com/user/143074/c0b2700f-9b12-4c2a-90ab-72cd948962ac.png)
 
 该研究通过跨物种、高时空分辨率的单细胞转录组测序技术，结合多组学分析手段，首次在外周神经系统中发现了一群与中枢神经系统小胶质细胞具有相同分子特征、且与物种体型大小相关的小胶质细胞，并将其命名为PNS microglia。
+
 - 论文链接：https://www.sciencedirect.com/science/article/abs/pii/S0092867425001928    
 
 3、[ChatNT：首个支持DNA/RNA/蛋白的生物ChatGPT来了！](https://mp.weixin.qq.com/s/kXd3k30tutofiQRyC7BgFQ)   
@@ -38,6 +40,7 @@ comments: true
 ![](https://files.mdnice.com/user/143074/3ec65b4c-08ac-4514-821d-9d1bdc397d55.jpg)
 
 该研究介绍了由InstaDeep和BioNTech联合推出的全新生物AI助手——ChatNT。ChatNT 让生物序列第一次“说人话”，也让科研人员第一次不写代码就能高效提问基因组。它是生物界的 ChatGPT，正在开启通用生物智能助手的新时代。
+
 - 论文链接：https://www.nature.com/articles/s42256-025-01047-1
 
 ## 博文资讯

@@ -54,7 +54,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 十一月
-
+- 第 176 期：[单细胞基因表达数据是否会泄露个体基因型信息，从而带来隐私风险？](https://github.com/openbiox/weekly/blob/main/issues/issue-177.md)
 - 第 176 期：[有组织科研，是不是学阀大杀四方，片甲不留？](https://github.com/openbiox/weekly/blob/main/issues/issue-176.md)
 
 ### 十月

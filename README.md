@@ -54,6 +54,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 十二月
+- 第 180 期：[有了AI，还有必要学习生物信息吗？](https://github.com/openbiox/weekly/blob/main/issues/issue-180.md)
 - 第 179 期：[在大数据时代，研究设计应优先考虑统计显著性](https://github.com/openbiox/weekly/blob/main/issues/issue-179.md)
 - 第 178 期：[为何肿瘤空间分布至关重要](https://github.com/openbiox/weekly/blob/main/issues/issue-178.md)
   
